@@ -1,0 +1,46 @@
+{
+  "teacher": "gemini:gemma-4-26b-a4b-it",
+  "responses": 2000,
+  "kept": 1934,
+  "dropped": {
+    "answer_too_long": 4,
+    "glued_words": 15,
+    "foreign_or_mixed_script": 29,
+    "script_mismatch": 13,
+    "refusal": 3,
+    "detached_particles": 2
+  },
+  "kept_per_task": {
+    "knowledge": 451,
+    "comprehension": 500,
+    "translation": 487,
+    "summarisation": 496
+  },
+  "min_score": null,
+  "prompts_meta": {
+    "n_raw": 2612,
+    "n_kept": 2000,
+    "n_eval": 60,
+    "eval_sha256": "ef344a7107244f136b909e19a20a97dde1cc7824e2ef5d306cdfbb8e453b0af1",
+    "dropped": {
+      "foreign_script": 42,
+      "instruction_in_text": 4,
+      "passage_length": 109,
+      "script_mismatch": 3,
+      "exact_duplicate_train": 2,
+      "near_dup_eval": 1,
+      "mixed_script_word": 20,
+      "detached_particles": 2,
+      "near_dup_train": 3
+    },
+    "removed_as_eval_duplicates": 1,
+    "seed": 42,
+    "thresholds": {
+      "JACCARD_EVAL": 0.4,
+      "CONTAIN_EVAL": 0.6,
+      "CONTAIN_CONTENT": 0.6,
+      "JACCARD_INTERNAL": 0.8
+    }
+  },
+  "time_utc": "2026-10-06T07:07:11+00:00"
+}
