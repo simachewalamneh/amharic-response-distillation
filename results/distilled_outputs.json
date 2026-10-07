@@ -1,0 +1,493 @@
+{
+ "results": [
+  {
+   "eval_id": "E01",
+   "task": "closed_book_knowledge",
+   "direction": "",
+   "text": "በ1960ዎቹ አብዛኞቹ የአፍሪካ ሀገራት የነፃነት ባለቤት ሊሆኑ የቻሉት የነፃነት ባለቤት አምጪው አምጪ አምጪ (ኢትዮጵያ) ነው።",
+   "seconds": 2.3926330859999325,
+   "new_tokens": 54
+  },
+  {
+   "eval_id": "E02",
+   "task": "closed_book_knowledge",
+   "direction": "",
+   "text": "የስምጥ ሸለቆ ሀይቆች በትናትና በዝናብ ውሃ ደረጃቸውን ጠብቀው የሚቆዩበትን ተፈጥሯዊ ሂደት አብራራ ነው። ይህ ሂደት በዘርናዊው የጤና ሥርዓት ውስጥ ያለውን የጤና እና የውሃ መከላከያን ለማረጋገጥ ይረዳል።",
+   "seconds": 3.340534802999855,
+   "new_tokens": 76
+  },
+  {
+   "eval_id": "E03",
+   "task": "closed_book_knowledge",
+   "direction": "",
+   "text": "የፋሲለደስ ግንብ በኢትዮጵያ ታሪካዊ ከተማ ውስጥ ይገኛል።",
+   "seconds": 1.0970320110000102,
+   "new_tokens": 25
+  },
+  {
+   "eval_id": "E04",
+   "task": "closed_book_knowledge",
+   "direction": "",
+   "text": "የአፍሪካ ህብረት (AU) አጀንዳ 2063 ማሳካት የሚፈልጋቸውን ሶስት ዋና ዋና ግቦች አጠቃላይ ናቸው። እነዚህ ግቦች አጀንዳው በኢትዮጵያ 2063 ዓመተሰጥ የኢኮኖሚ እድገትና የኢኮኖሚ አገራትን ለመጠበቅና የኢኮኖሚ እድገት ለመቀነስ የሚደረገባቸው ናቸው።",
+   "seconds": 5.3719894060000115,
+   "new_tokens": 100
+  },
+  {
+   "eval_id": "E05",
+   "task": "closed_book_knowledge",
+   "direction": "",
+   "text": "በአይፒ አድራሻ (IP Address) እና በMAC አድራሻ መካከል ያለውን የመሳሪያ መለያ ልዩነት አብራራ በአንድ የኢኮኖሚ አቅራቢያ ውስጥ ነው። ይህ ልዩነት የኢኮኖሚ አቅራቢያው የኢኮኖሚ አቅራቢያው (IP) እና የኢኮኖሚ አቅራቢያው (MAC) መለያን የሚያገልጽ ሲሆን፣ የኢኮኖሚ አቅራቢያው የኢኮኖሚ አቅራቢያው (IP) መለያን የሚያገልጽ ሲሆን፣ የኢኮኖሚ አቅራቢያው የኢኮኖሚ አቅራቢያው (MAC) መለያን የሚያገልጽ ሲሆን፣ የኢኮኖሚ አቅራቢያው የኢኮኖሚ አቅራቢያው (IP) መለያን የሚያገልጽ ሲሆን፣ የኢኮኖሚ አቅራቢያው የኢኮኖሚ አቅራቢያው (MAC) መለያን የሚያገልጽ ሲሆን፣ የኢኮኖሚ አቅራቢያው የኢኮኖሚ አቅራቢያው (IP) መለያን የሚያገልጽ ሲሆን፣ የኢ",
+   "seconds": 11.885219140000117,
+   "new_tokens": 256
+  },
+  {
+   "eval_id": "E06",
+   "task": "closed_book_knowledge",
+   "direction": "",
+   "text": "አንድ ባይት (Bits) ስንት ቢት (Bits) ይይዛል፣ ይህም 128 ፊስቶዶክስ (bits) ይይዛል።",
+   "seconds": 2.164150531000132,
+   "new_tokens": 41
+  },
+  {
+   "eval_id": "E07",
+   "task": "closed_book_knowledge",
+   "direction": "",
+   "text": "የህዳሴ ዘመን (Renaissance) በሳይንስ፣ በስነ-ጥበብ እና በፍልስፍና ላይ ያመጣቸውን አበይት አብራራ በኢትዮጵያ ውስጥ ያለውን የኢኮኖሚ እና የሥነ-ምስራቅ አበይት አቅራቢያዊ የነበረው የኢትዮጵያ ዘመን ነው። ይህ ዘመን በኢትዮጵያ ውስጥ ያለውን የኢኮኖሚ እና የሥነ-ምስራቅ አበይት አቅራቢያዊ የነበረው የኢትዮጵያ ዘመን አብራራለች።",
+   "seconds": 6.185370336999995,
+   "new_tokens": 140
+  },
+  {
+   "eval_id": "E08",
+   "task": "closed_book_knowledge",
+   "direction": "",
+   "text": "የግብፅ ፒራሚዶች በግብጽ ፒራሚዶች ውስጥ የተገነቡበትና የተገነቡበት ሃይማኖታዊ ምክንያት በግብጽ ፒራሚዶች ውስጥ የግብጽ ፒራሚድ ፒራሚድ (Pari Mary) መሬት ላይ የተመሰረተውን የግብጽ ፒራሚድ ፒራሚድ (Pari Mary) መሬት ነው።",
+   "seconds": 4.672229789999847,
+   "new_tokens": 94
+  },
+  {
+   "eval_id": "E09",
+   "task": "closed_book_knowledge",
+   "direction": "",
+   "text": "የዜግነት መብቶችና ግዴታዎች (Citizenship Rights and Duties) በዲሞክራሲያዊ ስርዓት ውስጥ የሚገኙ የዜግነት ሥርዓት መብቶች፣ የዜግነት ሥርዓት መብቶች እና የዜግነት ሥርዓት መብቶች ናቸው። እነዚህ ሥርዓቶች የዜግነት ሥርዓት መብቶች፣ የዜግነት ሥርዓት መብቶች እና የዜግነት ሥርዓት መብቶች የዜግነት ሥርዓት መብቶች ናቸው።",
+   "seconds": 5.436697636999952,
+   "new_tokens": 115
+  },
+  {
+   "eval_id": "E10",
+   "task": "closed_book_knowledge",
+   "direction": "",
+   "text": "አለም አቀፍ ንግድ ለሀገራት እድገት የሚያስገኛቸውን ሶስት ዋና ዋና ዋና ጥቅሞች አጠቃላይ ተጋላሽነት፣ የአካባቢውን መረጃ መምራት እና የአካባቢውን የንግድ እድገት ለመጠበቅ ነው። በተጨማሪም የአካባቢውን የንግድ እድገት ለመቀነስ እና የአካባቢውን የሀገሪቱን መረጃ መምራት እንዲሁም የአካባቢውን የንግድ እድገት ለመጠበቅ የሚረዳው አጠቃላይ ተጋላሽነት ነው።",
+   "seconds": 5.072046103000048,
+   "new_tokens": 116
+  },
+  {
+   "eval_id": "E11",
+   "task": "closed_book_knowledge",
+   "direction": "",
+   "text": "ገበሬዎች በአንድ ማሳ ላይ የተለያዩ ሰብሎችን በማፈራረቅ ለተለያዩ ተጠቃሚዎች የተለያዩ የጤናማ እና ለተለያዩ የሥራ ዘመኖች ይረዳሉ። በተጨማሪም ለተለያዩ የጤናማ ዘመኖች የጤናማ የሆኑ ሰብሎችን በመጠቀም ለተለያዩ የሥራ ዘመኖች ለተለያዩ የጤናማ የሆኑ ሰብሎችን ይረዳል።",
+   "seconds": 4.933000969999966,
+   "new_tokens": 91
+  },
+  {
+   "eval_id": "E12",
+   "task": "closed_book_knowledge",
+   "direction": "",
+   "text": "የአንድ ሙሉ ክበብ ማዕዘን ድምር ስንት ዲግሪ በኢትዮጵያ ውስጥ የሚገኙት 12 ክበቦች ናቸው።",
+   "seconds": 1.7106121309998343,
+   "new_tokens": 39
+  },
+  {
+   "eval_id": "E13",
+   "task": "closed_book_knowledge",
+   "direction": "",
+   "text": "ሦስት ማዕዘኖች በጎናቸው ርዝመት መሠረት የሚመደቡባቸውን አቅራቢያት፣ የፀሐይ አቅም እና የውሃ መጠን ናቸው። እነዚህ አቅራቢያት በጎናቸው ርዝመት መሠረት የሚመደቡባቸው የፀሐይ አቅም፣ የውሃ መጠን እና የጎናቸው ርዝመት መሠረት የሚመደቡባቸው የጎናቸው ርዝመት ናቸው።",
+   "seconds": 4.4466532629999165,
+   "new_tokens": 101
+  },
+  {
+   "eval_id": "E14",
+   "task": "closed_book_knowledge",
+   "direction": "",
+   "text": "የቴአትር ጥበብ (Drama) ገፀ-ባህሪያትንና ጭብጥን በመድረክ ላይ የማቅረብ መርህ አብራራ ማለት የአንድነትን እና የአንድነትን ለመጠበቅ፣ የአንድነትን ለመቀነስ እና የአንድነትን ለመጠበቅ ያለውን የትምህርት እና የትምህርት መረጃ ማቅረብ ነው። ይህ ሂደት የአንድነትን ለመቀነስ፣ የአንድነትን ለመጠበቅ እና የአንድነትን ለመጠበቅ ያለውን የትምህርት እና የትምህርት መረጃ ማቅረብ ይረዳል።",
+   "seconds": 6.599999579000041,
+   "new_tokens": 134
+  },
+  {
+   "eval_id": "E15",
+   "task": "closed_book_knowledge",
+   "direction": "",
+   "text": "የልብ ወለድ ሴራ፣ ገጸ ባህርያትና መቼት በየአራት ዓመታት ውስጥ በኢትዮጵያ ውስጥ ያለውን የነበሩት የትምህርት እና የትምህርት ሚና አድርገዋል። ሴራዎቹን የትምህርት ሚና በየአራት ዓመታት ውስጥ በኢትዮጵያ ውስጥ ያለውን የትምህርት ሚና አድርገዋል። ሴራዎቹን የትምህርት ሚና በየአራት ዓመታት ውስጥ በኢትዮጵያ ውስጥ ያለውን የትምህርት ሚና አድርገዋል።",
+   "seconds": 6.0125703409999005,
+   "new_tokens": 137
+  },
+  {
+   "eval_id": "E16",
+   "task": "instruction_following",
+   "direction": "",
+   "text": "የተሽከርካሪው እስከ 40 ኪሎ ሜትር መጓዝ ትችላለች ተብሏል።",
+   "seconds": 1.2550961509998615,
+   "new_tokens": 28
+  },
+  {
+   "eval_id": "E17",
+   "task": "instruction_following",
+   "direction": "",
+   "text": "የቦርድ አባል የነበሩ አሁን ሊለቁ የ43 ዓመቱ ትራቪስ በድርጅቱ ውስጥ አንዱ ሆነው የሚቀጥሉ መሆኑን አስታውቀዋል።",
+   "seconds": 2.0897440749999987,
+   "new_tokens": 47
+  },
+  {
+   "eval_id": "E18",
+   "task": "instruction_following",
+   "direction": "",
+   "text": "በ2013 ዓ.ም በኢትዮጵያ በሀገር አቀፍ ደረጃ ደረጃ ሞዴል የጤና ኤክስቴንሽን ባለሙያ ተብላ የተመረጠችው ማናት 40,000 የጤና ኤክስቴንሽን ባለሙያዎችን በመወከል ሽልማቱን ተቀብላለች።",
+   "seconds": 4.524590610000132,
+   "new_tokens": 81
+  },
+  {
+   "eval_id": "E19",
+   "task": "instruction_following",
+   "direction": "",
+   "text": "ፌስቡክ የሰዎችን የፊት ገጽታ መለያ መሣሪያ በመጠቀም ምን ዓይነት ጥቅም አግኝቷል ተገልጿል።",
+   "seconds": 1.464326759999949,
+   "new_tokens": 32
+  },
+  {
+   "eval_id": "E20",
+   "task": "instruction_following",
+   "direction": "",
+   "text": "የኢትዮ ቴሌኮም ዋና ሥራ አስፈፃሚ ወይዘሪት ፍሬህይወት ታምሩን ጨምሮ ከፍተኛ የስራ ሃላፊዎች ነው።",
+   "seconds": 1.7932354490001217,
+   "new_tokens": 41
+  },
+  {
+   "eval_id": "E21",
+   "task": "instruction_following",
+   "direction": "",
+   "text": "የደንበኞችን የግል ተንቀሳቃሽ ምስል በስህተት ለሌሎች ያጋራው ጎግል ይህ ችግር ያጋጠመው መቼ ነበር?",
+   "seconds": 1.8509059430000434,
+   "new_tokens": 42
+  },
+  {
+   "eval_id": "E22",
+   "task": "instruction_following",
+   "direction": "",
+   "text": "የአር ዩ ኔት የተሰኘ ኢንተርኔት በተሳካ ሁኔታ መሞከሯ ታውቋል ይህ ኢንተርኔት ስሙ ምን ይባላል?",
+   "seconds": 1.8928176060001078,
+   "new_tokens": 42
+  },
+  {
+   "eval_id": "E23",
+   "task": "instruction_following",
+   "direction": "",
+   "text": "የቤተልሄም ኮከብ ተብሎ የሚጠራው ክስተት ከ2 ሺህ ዓመታት በፊት ነበር።",
+   "seconds": 1.3366721899999447,
+   "new_tokens": 31
+  },
+  {
+   "eval_id": "E24",
+   "task": "instruction_following",
+   "direction": "",
+   "text": "ፈጠራውን እንዴት አድርጎ ለማሳየት ሞከረ በባህርዳር ዩኒቨርስቲ 3ኛ ዓመት የሜካኒካል ኢንጅነሪንግ ተማሪ ሲሆን ወጣቱ የወዳደቁ ፒፒሲ ትቦዎች፣ የላሜራ ብረቶችና ፌሮዎች እንዲሁም አገልግሎት መስጠት ያቆሙ የብስክሌት ጀልባ መስራት የቻለው።",
+   "seconds": 5.19678462700017,
+   "new_tokens": 96
+  },
+  {
+   "eval_id": "E25",
+   "task": "instruction_following",
+   "direction": "",
+   "text": "የኤሌክትሪክ ብስክሌቱ በፔዳል የሚሰራ ሲሆን፥ አንድ ጊዜ ባትሪ ከተሞላ በኋላ ለአንድ ሰዓት ያክል መጠቀም ይቻላል።",
+   "seconds": 1.7926310789998752,
+   "new_tokens": 40
+  },
+  {
+   "eval_id": "E26",
+   "task": "instruction_following",
+   "direction": "",
+   "text": "በቅልብልቦሽ ጨዋታ ብቀጣጥል ማለት ብቀጥል ማለት ነው።",
+   "seconds": 1.0487250580001728,
+   "new_tokens": 23
+  },
+  {
+   "eval_id": "E27",
+   "task": "instruction_following",
+   "direction": "",
+   "text": "በኢትዮጵያ የዘመናዊ ሕትመት ሥራ በማን ዘመን ተጀመረው በ፲፱፻፲፭ ዓ/ም ነው።",
+   "seconds": 2.0224181009998574,
+   "new_tokens": 44
+  },
+  {
+   "eval_id": "E28",
+   "task": "instruction_following",
+   "direction": "",
+   "text": "አረማይክ ቋንቋን ይፋዊ ቋንቋ ያደረገው የአሦር ንጉሥ ማነው?",
+   "seconds": 1.3745395420000932,
+   "new_tokens": 31
+  },
+  {
+   "eval_id": "E29",
+   "task": "instruction_following",
+   "direction": "",
+   "text": "ዓረብኛ ቋንቋዎች ቤተሠብ አባል ሆኖ የዕብራይስጥ የአረማያ እና የአማርኛ ቅርብ ዘመድ ነው።",
+   "seconds": 1.7492253970001457,
+   "new_tokens": 40
+  },
+  {
+   "eval_id": "E30",
+   "task": "instruction_following",
+   "direction": "",
+   "text": "ግስላ በዱር ሲኖር እስከ 10 አመት እንደሚኖር ሲታወቅ በሰው ተይዘው ሲኖሩ እስከ 20 አመት እድሜ ያስመዘገቡ ግሥሎች አሉ።",
+   "seconds": 2.202449033999983,
+   "new_tokens": 47
+  },
+  {
+   "eval_id": "E31",
+   "task": "translation",
+   "direction": "am->en",
+   "text": "The question you ask is very important.",
+   "seconds": 0.5380547550000756,
+   "new_tokens": 9
+  },
+  {
+   "eval_id": "E32",
+   "task": "translation",
+   "direction": "am->en",
+   "text": "Therefore, it is said that in the past, the country and the country have been divided by the same political and political divisions.",
+   "seconds": 1.604597381000076,
+   "new_tokens": 27
+  },
+  {
+   "eval_id": "E33",
+   "task": "translation",
+   "direction": "am->en",
+   "text": "It is important for every member of the family to be young at the same time as the age of the person.",
+   "seconds": 1.413722081999822,
+   "new_tokens": 24
+  },
+  {
+   "eval_id": "E34",
+   "task": "translation",
+   "direction": "am->en",
+   "text": "Therefore, this task is not relevant to me.",
+   "seconds": 0.5102202719999696,
+   "new_tokens": 11
+  },
+  {
+   "eval_id": "E35",
+   "task": "translation",
+   "direction": "am->en",
+   "text": "My brother was very kind to me when I was sick.",
+   "seconds": 0.5937160829998902,
+   "new_tokens": 13
+  },
+  {
+   "eval_id": "E36",
+   "task": "translation",
+   "direction": "am->en",
+   "text": "It is necessary to understand the company's operations, services, and staff skills to accurately describe the UAEU's success and the quality of its services.",
+   "seconds": 1.4542345190000106,
+   "new_tokens": 33
+  },
+  {
+   "eval_id": "E37",
+   "task": "translation",
+   "direction": "am->en",
+   "text": "Doctors arrive at the hospital to find that the staff has been assigned a job.",
+   "seconds": 0.7498406159998012,
+   "new_tokens": 17
+  },
+  {
+   "eval_id": "E38",
+   "task": "translation",
+   "direction": "en->am",
+   "text": "በአንድነት ያሉ ሌሎች ሰዎች አገራቱን እየተገኘ እና እየተገኘ ይገኛሉ።",
+   "seconds": 1.0592129389999627,
+   "new_tokens": 24
+  },
+  {
+   "eval_id": "E39",
+   "task": "translation",
+   "direction": "en->am",
+   "text": "በአንድ ላይ አለው ከሰውን ጋር ያለውን አድናሽ አለው።",
+   "seconds": 0.8932178349998594,
+   "new_tokens": 20
+  },
+  {
+   "eval_id": "E40",
+   "task": "translation",
+   "direction": "en->am",
+   "text": "በአንድነት አውሰዱ፣ እና አዲሱ አምጪዎች ግን ምንም አደጋ አይታሉም።",
+   "seconds": 1.1442052160000458,
+   "new_tokens": 26
+  },
+  {
+   "eval_id": "E41",
+   "task": "translation",
+   "direction": "en->am",
+   "text": "ይህንን የኢንተርኔት ጽሑፍን የበለጠ ተህዋሲያዊ እና በሰላው ላይ የተመሰረተ ማድረግ የሰላው ጊዜ ነው።",
+   "seconds": 1.7937490790000084,
+   "new_tokens": 40
+  },
+  {
+   "eval_id": "E42",
+   "task": "translation",
+   "direction": "en->am",
+   "text": "በአንድነት አጠቃላይ አቅርቦት ብዙ አቅርቦት ተጀምሯል።",
+   "seconds": 0.9750869050001256,
+   "new_tokens": 21
+  },
+  {
+   "eval_id": "E43",
+   "task": "translation",
+   "direction": "en->am",
+   "text": "ይህ የትምህርት ቤት ውስጥ ውስጥ እየተደረገ ነው።",
+   "seconds": 0.7821917300000223,
+   "new_tokens": 16
+  },
+  {
+   "eval_id": "E44",
+   "task": "translation",
+   "direction": "en->am",
+   "text": "በአንድነት ውስጥ ያለውን የዓለም አቀፍ አቅም እንዳይሰጥኝ ጊዜን ያብራራ።",
+   "seconds": 1.6783706030000758,
+   "new_tokens": 29
+  },
+  {
+   "eval_id": "E45",
+   "task": "translation",
+   "direction": "en->am",
+   "text": "በአፍሪካ ውስጥ ያለውን የዓለም አቀፍ አቅራቢያን ለመቀነስ በዓለም አቀፍ ጤና፣ በዓለም አቀፍ ጤናነት እና በዓለም አቀፍ ጤና ሁኔታ የተመሠረተ አቅራቢያን ለማቅረብ በዓለም አቀፍ ጤና አቅራቢያ ላይ አቅራቢያችንን ያረጋግጡ።",
+   "seconds": 4.5419107830000485,
+   "new_tokens": 93
+  },
+  {
+   "eval_id": "E46",
+   "task": "summarization",
+   "direction": "",
+   "text": "በፌስቡክ ገጹ ላይ በኬንያ መሪዎች ስር ከመተዳደር ጎንደር ውስጥ የቤት ውስጥ አገልጋይ ሆኖ መኖርን እንደሚመርጥ የሚናገረው ብራያን ቤተ መንግሥቱ ሊገባ ሲሆን፣ በጆሞ ኬንያታ የግብርናና የቴክኖሎጂ ዩኒቨርስቲ ውስጥ የአምስተኛ ዓመት የሜካኒካል ኢንጂነሪንግ ተማሪ የሆነው ብራያን ነው።",
+   "seconds": 4.762259604000064,
+   "new_tokens": 105
+  },
+  {
+   "eval_id": "E47",
+   "task": "summarization",
+   "direction": "",
+   "text": "የሙዚቃ ሳይሰሙ መወዛዋዝ ይችላሉ።",
+   "seconds": 0.7145330309999736,
+   "new_tokens": 15
+  },
+  {
+   "eval_id": "E48",
+   "task": "summarization",
+   "direction": "",
+   "text": "መፈንቅለ መንግሥቱን ካቀነባበሩት መካከል የሶስቱን ማንነት በፈረንሳይ ወታደራዊ ስልጠና ወስደው እንደተመለሱ ሲሆን፣ የኮሎኔል ማሊክ በካቲ ወታደራዊ ማሰልጠኛ አካዳሚ ላይ የተነሳው አመፅን መሪ ናቸው። በተጨማሪም የካቲ ወታደራዊ ማሰልጠኛ አካዳሚ የቀድሞ ዳይሬክተርና የባህርያቸው መረጃዎች አስፍሯሉ።",
+   "seconds": 6.325832222999907,
+   "new_tokens": 121
+  },
+  {
+   "eval_id": "E49",
+   "task": "summarization",
+   "direction": "",
+   "text": "በአልማዝ ተፎካካሪ 5 እና 10 ሺህ ሜትሮች ሯጯ አልማዝ ዘንድሮን አሸናፊነት አድርጓል። በወንዶቹ የለንደን የ10 ሺህ ሜትር አሸናፊ ትውለደ ሶማሊያ እና የእንግሊዝ ዜግነት ያለው ሞ ፋራህ ከኒከርክና ባርሺም ተነግሯል።",
+   "seconds": 4.409773048000034,
+   "new_tokens": 100
+  },
+  {
+   "eval_id": "E50",
+   "task": "summarization",
+   "direction": "",
+   "text": "የዘረ መል ካርታው ከቅርብ ጊዜ ወዲህ እየታየ ያለውን ከባድ ሙቀት፣ የአየር ጸባይ መቋቋም እና የሰው ልጅ ዝግመተ ለውጥ በማሳደግ የአለምን ህዝብ ለመመገብና የአለምን ስንጠብቀጥን ለመከላከል ይረዳል። ይህ ምርምር ውጤት በ2050 የዓለማችን የህዝብ ቁጥር ወደ 9.6 ቢሊዮን ከፍ የሚል ሲሆን፣ አሁንም ብዙ ቁጥር ያለው የአለማችን ህዝብ መራቡ አይቀርም እያሉ፤ ይህም የአለምን ህዝብ ለመመገብና የአለምን ስንጠብቀጥን ለመከላከልና የአለምን ስንጠብቀጥን ለመከላከልና የአለምን ህዝብ ለመመገብ በቂ ናቸው።",
+   "seconds": 9.757358965999856,
+   "new_tokens": 194
+  },
+  {
+   "eval_id": "E51",
+   "task": "summarization",
+   "direction": "",
+   "text": "አምስት ልጆችን በኢትዮጵያና በየአራት አመታት በሆስፒታል አዋላጅ ላይ አጋጥሞኝ አድርጓል። በተጨማሪም መንታ ወይም ሶስት ልጆች የሚያጋጥሙ አጋሯንና ህፃናቱ በሙሉ ጤና ቢወለዱም እንክብካቤንና ክትትልን ይሻሉ።",
+   "seconds": 3.8627696180001294,
+   "new_tokens": 87
+  },
+  {
+   "eval_id": "E52",
+   "task": "summarization",
+   "direction": "",
+   "text": "ለሳምንት አገልግሎቱ ተቋርጦባቸው ከነበሩት አካባቢዎች መካከል አንዱ በሆነው በአላማጣ ሙሉ በሙሉ የቴሌኮም አገልግሎት መጀመሩንና የተወሰኑ ቀናት መቆጠሩን ኃላፊ ገልፀዋል። በተጨማሪም በምዕራብ በኩል በዳንሻ፣ በተርካን፣ ሁመራ፣ ሽራሮ፣ ማይካድራና ማይፀብሪም አገልግሎቱ በከፊል ተጀምሯል፣ ይህም የኤሌክትሪክ ኃይል አገልግሎት ባለመኖሩንና የኃይል አቅርቦት ችግሩን ለመቀየር ይረዳል።",
+   "seconds": 7.106526712999994,
+   "new_tokens": 148
+  },
+  {
+   "eval_id": "E53",
+   "task": "summarization",
+   "direction": "",
+   "text": "የ33 ዓመቷ ካትሪያና ሃንድዝዩክ ሕልፈት ዩክሬናውያንን እጅጉን ያስደነጠው ሲሆን፣ የአሲድ ጥቃቱ ካደረሰ በኋላ በሕክምና ስትረዳ ብትቆይም ከሦስት ወራት በፊት ሕይወቷ አልፏል።",
+   "seconds": 3.463436374000139,
+   "new_tokens": 73
+  },
+  {
+   "eval_id": "E54",
+   "task": "summarization",
+   "direction": "",
+   "text": "በሕንድ እስካሁን ድረስ ቫይረሱ የተገኘባቸው ሰዎች ቁጥር ከሌሎች አገራት አንፃር ሲታይ አነስተኛ ነው። ይህ መልዕክት ደዋዩ ብቻ የሚሰማው ሲሆን፣ የመደበኛው ጥሪው አካል አይደለም ተብሏል።",
+   "seconds": 2.777313642000081,
+   "new_tokens": 63
+  },
+  {
+   "eval_id": "E55",
+   "task": "summarization",
+   "direction": "",
+   "text": "በጎ ፈቃደኞቹ ከጸሀይ ብርሀን የሚገኘው ቫይታሚን ዲ እጥረት ካለባቸው ለሚቀጥሉት ስድስት ወራት በፖስታ ቤት በኩል የቫይታሚን ዲ እንክብሎች ወደቤታቸው ይላክላቸዋል። የቫይታሚን ዲ እንክብሎች ከኮቪድ ጋር በተያያዘ ብቻ ሳይሆን አጠቃላይ በሽታ የመከላከል አቅምን ከፍ ለማድረግና ኢንፌክሽኖችን ለመቀነስ ይረዳሉ።",
+   "seconds": 5.172062885000059,
+   "new_tokens": 116
+  },
+  {
+   "eval_id": "E56",
+   "task": "summarization",
+   "direction": "",
+   "text": "የኢትዮጵያ ህብረተሰብ ጤና ኢንስቲትዩት ከሁለት ቀናት በፊት በኮሮናቫይረስ ሳይያዙ አዲስ አራት ሰዎች መገኘታቸውን አስታውቆ ነበር። የጤና ጥበቃ ሚንስትር ከበፌስቡክ ገጹ እንዳስታወቀው የአራቱ ግለሰቦች የደም ናሙና ወደ ደቡብ አፍሪካ ለምረመራ ተልኮ ውጤቱ ከኮሮናቫይረስ ነጻ መሆናቸው ተረጋግጧል።",
+   "seconds": 6.295006856999862,
+   "new_tokens": 124
+  },
+  {
+   "eval_id": "E57",
+   "task": "summarization",
+   "direction": "",
+   "text": "የኦሮሚያ ክልል ፕሬዚዳንት እና የኦዴፓ ምክትል ሊቀመንበር የሆኑት አቶ ለማ መገርሳ፣ ኦዴፓ በወጣቶች የተሞላ ፓርቲ ነው። በኦሮሞ ዴሞክራቲክ ግንባር አመራሮች፣ በኢሚግሬሽንና የዜግነት ጉዳዮች ተቋም፣ ምርጫ ኃይል እና አርማ ያሉ የተለያዩ የፖለቲካ ድርጅቶችን በመቀበል ለሃገርም ጠቀሜታውና ለኦሮሚያ ብቻ ሳይሆን ለሃገርም ጠቀሜታው ይረዳሉ።",
+   "seconds": 6.07182031100001,
+   "new_tokens": 139
+  },
+  {
+   "eval_id": "E58",
+   "task": "summarization",
+   "direction": "",
+   "text": "ይህ አረፍተ ነገር ስለ ምንድን ነው የሚያወራው የአምስት ወራት ከልጇም ጋር በመለያየቷ ጡቷ እንደደረቀ ሲሆን፣ ህፃኗ ኤንጅልም በመጨረሻ ክሊኒክንም ለቃ መሄድ እንደቻለችም ተገልጿል።",
+   "seconds": 3.86870639499989,
+   "new_tokens": 69
+  },
+  {
+   "eval_id": "E59",
+   "task": "summarization",
+   "direction": "",
+   "text": "የተሰጠውን ሪፖርት በህፃናት ሴቶችና ወንዶች በከፍተኛ ሁኔታ የሚጋለጡና የኢኮኖሚ ጫናና በሚቀጥለው የትምህርትና የቤታቸውን ቀዳዳ ለመሙላት የሚያስረዳ መንግሥት የህፃናት ወንዶችና ሴቶች ያለ ዕድሜያቸው የሚጋቡ ሲሆን፣ በሁለቱም ፆታዎች 765 ሚሊዮን ህፃናት ያለ ዕድሜያቸው የሚጋቡ ሲሆን፣ በ115 ሚሊዮን ብር በላይ ጭማሪ ያሳየው የኢትዮጵያ የዩኒሴፍ ተወካይ ማሪያ ሊሊ ሮድሪገዝ ይናገራል።",
+   "seconds": 7.29618300900006,
+   "new_tokens": 165
+  },
+  {
+   "eval_id": "E60",
+   "task": "summarization",
+   "direction": "",
+   "text": "ዘ ሰንደይ ታይምስ እንደዘገበው የፓርላማ አባሉ ክስ የተመሰረተባቸው በቀድሞ የፓርላማው ሰራተኛ ነው። ግለሰቡ በባለፈው ሐምሌና በተያዘው ዓመት ጥር ወር መካከል ባሉት ድርጊቶች የተፈፀሙ ሲሆን፣ ወግ አጥባቂው ክሶችን በዌስትሚኒስተር ላምቤዝ እና በባለፈው ዓመት ሐምሌ ወር መካከል ባሉት ተጨማሪ ክሶች መቀበሉንም አስታውቋል።",
+   "seconds": 6.747046586999886,
+   "new_tokens": 131
+  }
+ ],
+ "stats": {
+  "label": "distilled (adapter loaded)",
+  "sec_per_answer_mean": 3.3546310135166624,
+  "sec_per_answer_median": 2.1832997825000575,
+  "tokens_per_sec": 21.050501942578524,
+  "total_new_tokens": 4237,
+  "peak_mem_mb": 1181.28369140625,
+  "n_hit_256": 1
+ }
+}

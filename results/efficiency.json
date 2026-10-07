@@ -1,0 +1,81 @@
+{
+ "base": {
+  "label": "base",
+  "sec_per_answer_mean": 3.994079393816666,
+  "sec_per_answer_median": 2.0234530850000283,
+  "tokens_per_sec": 25.67967647950431,
+  "total_new_tokens": 6154,
+  "peak_mem_mb": 1158.421875,
+  "n_hit_256": 17
+ },
+ "distilled": {
+  "label": "distilled (adapter loaded)",
+  "sec_per_answer_mean": 3.3546310135166624,
+  "sec_per_answer_median": 2.1832997825000575,
+  "tokens_per_sec": 21.050501942578524,
+  "total_new_tokens": 4237,
+  "peak_mem_mb": 1181.28369140625,
+  "n_hit_256": 1
+ },
+ "merged": {
+  "label": "distilled (merged)",
+  "sec_per_answer_mean": 2.154950836666664,
+  "sec_per_answer_median": 1.6911304464998693,
+  "tokens_per_sec": 32.76950242442581,
+  "total_new_tokens": 4237,
+  "peak_mem_mb": 1158.17041015625,
+  "n_hit_256": 1
+ },
+ "base_disk_mb": 511.3821563720703,
+ "adapter_mb": 14.521926879882812,
+ "base_params": 268098176,
+ "adapter_params": 3796992,
+ "training": {
+  "train_seconds": 1538.4207193510001,
+  "train_minutes": 25.64034532251667,
+  "peak_train_mem_mb": 9626.44970703125,
+  "trainable_params": 3796992,
+  "all_params_with_adapter": 271895168,
+  "steps": 345,
+  "train_examples": 1834,
+  "val_examples": 100,
+  "val_loss": [
+   [
+    "before_training",
+    3.7382588236812033
+   ],
+   [
+    "epoch_1",
+    1.6312033807539696
+   ],
+   [
+    "epoch_2",
+    1.5175348400825526
+   ],
+   [
+    "epoch_3",
+    1.5055592697390925
+   ]
+  ],
+  "epochs": 3,
+  "lr": 0.0002,
+  "effective_batch": 16,
+  "max_len": 1024,
+  "lora_r": 16,
+  "lora_alpha": 32,
+  "lora_dropout": 0.05,
+  "gpu": "Tesla T4",
+  "dtype": "torch.float32",
+  "seed": 42
+ },
+ "versions": {
+  "python": "3.13.15",
+  "torch": "2.11.0+cu130",
+  "transformers": "5.18.0",
+  "peft": "0.21.1",
+  "cuda": "13.0",
+  "gpu": "Tesla T4",
+  "dtype": "torch.float32",
+  "seed": 42
+ }
+}

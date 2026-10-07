@@ -1,0 +1,13 @@
+ckpt,task,right_script_%,looping_%,repeat_loose_%,copy_rate,hit_256_%,mean_new_tokens
+epoch_1,closed_book_knowledge,80.0,33.33,80.0,0.55,33.33,137.8
+epoch_1,instruction_following,100.0,0.0,20.0,0.97,0.0,47.67
+epoch_1,translation,93.33,20.0,53.33,0.12,20.0,69.0
+epoch_1,summarization,100.0,0.0,33.33,0.88,6.67,129.6
+epoch_2,closed_book_knowledge,80.0,40.0,80.0,0.56,33.33,134.2
+epoch_2,instruction_following,100.0,0.0,20.0,0.97,0.0,43.33
+epoch_2,translation,100.0,6.67,20.0,0.04,6.67,38.07
+epoch_2,summarization,100.0,0.0,6.67,0.85,0.0,110.33
+epoch_3,closed_book_knowledge,93.33,20.0,73.33,0.44,6.67,101.27
+epoch_3,instruction_following,100.0,0.0,6.67,0.95,0.0,44.33
+epoch_3,translation,100.0,0.0,26.67,0.0,0.0,26.87
+epoch_3,summarization,100.0,0.0,33.33,0.83,0.0,110.0

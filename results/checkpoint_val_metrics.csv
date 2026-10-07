@@ -1,0 +1,4 @@
+,val_loss_all,val_loss_closed_book_knowledge,val_loss_instruction_following,val_loss_translation,val_loss_summarization,chrF++_val_closed_book_knowledge,chrF++_val_instruction_following,chrF++_val_translation,chrF++_val_summarization
+epoch_1,1.631,2.35,0.384,2.666,1.156,22.037,48.288,15.412,35.917
+epoch_2,1.518,2.189,0.363,2.539,1.06,22.091,44.104,22.22,34.416
+epoch_3,1.506,2.165,0.354,2.583,1.047,22.935,42.106,23.145,31.875

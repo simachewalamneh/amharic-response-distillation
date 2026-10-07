@@ -1,0 +1,177 @@
+﻿eval_id,task,base_output,distilled_output,base_seconds,base_new_tokens,distilled_seconds,distilled_new_tokens,teacher_output
+E01,closed_book_knowledge,"በ1960ዎቹ አብዛኞቹ የአፍሪካ ሀገራት በአ satu ጊዜ የነፃነት ባለቤት ሊሆኑ የቻሉት ለምንድን ነው.
+",በ1960ዎቹ አብዛኞቹ የአፍሪካ ሀገራት የነፃነት ባለቤት ሊሆኑ የቻሉት የነፃነት ባለቤት አምጪው አምጪ አምጪ (ኢትዮጵያ) ነው።,5.32,40,2.393,54,
+E02,closed_book_knowledge,የስምጥ ሸለቆ ሀይቆች በትናትና በዝናብ ውሃ ደረጃቸውን ጠብቀው የሚቆዩበትን ተፈጥሯዊ ሂደት አብራራ.,የስምጥ ሸለቆ ሀይቆች በትናትና በዝናብ ውሃ ደረጃቸውን ጠብቀው የሚቆዩበትን ተፈጥሯዊ ሂደት አብራራ ነው። ይህ ሂደት በዘርናዊው የጤና ሥርዓት ውስጥ ያለውን የጤና እና የውሃ መከላከያን ለማረጋገጥ ይረዳል።,3.696,41,3.341,76,
+E03,closed_book_knowledge,የፋሲለደስ ግንብ በየትኛዋ የኢትዮጵያ ታሪካዊ ከተማ ውስጥ ይገኛል.,የፋሲለደስ ግንብ በኢትዮጵያ ታሪካዊ ከተማ ውስጥ ይገኛል።,2.661,30,1.097,25,
+E04,closed_book_knowledge,የአፍሪካ ህብረት (AU) አጀንዳ 2063  abode 2063  abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode,የአፍሪካ ህብረት (AU) አጀንዳ 2063 ማሳካት የሚፈልጋቸውን ሶስት ዋና ዋና ግቦች አጠቃላይ ናቸው። እነዚህ ግቦች አጀንዳው በኢትዮጵያ 2063 ዓመተሰጥ የኢኮኖሚ እድገትና የኢኮኖሚ አገራትን ለመጠበቅና የኢኮኖሚ እድገት ለመቀነስ የሚደረገባቸው ናቸው።,24.601,256,5.372,100,
+E05,closed_book_knowledge,"በአይፒ አድራሻ (IP Address) እና በMAC አድራሻ (MAC Address) વચ્ચે ప్రయోజિતgre accounts (Proxies) વચ્ચેના ልዩ வேறுபாட்டைக் Фіસ करते हैं।
+",በአይፒ አድራሻ (IP Address) እና በMAC አድራሻ መካከል ያለውን የመሳሪያ መለያ ልዩነት አብራራ በአንድ የኢኮኖሚ አቅራቢያ ውስጥ ነው። ይህ ልዩነት የኢኮኖሚ አቅራቢያው የኢኮኖሚ አቅራቢያው (IP) እና የኢኮኖሚ አቅራቢያው (MAC) መለያን የሚያገልጽ ሲሆን፣ የኢኮኖሚ አቅራቢያው የኢኮኖሚ አቅራቢያው (IP) መለያን የሚያገልጽ ሲሆን፣ የኢኮኖሚ አቅራቢያው የኢኮኖሚ አቅራቢያው (MAC) መለያን የሚያገልጽ ሲሆን፣ የኢኮኖሚ አቅራቢያው የኢኮኖሚ አቅራቢያው (IP) መለያን የሚያገልጽ ሲሆን፣ የኢኮኖሚ አቅራቢያው የኢኮኖሚ አቅራቢያው (MAC) መለያን የሚያገልጽ ሲሆን፣ የኢኮኖሚ አቅራቢያው የኢኮኖሚ አቅራቢያው (IP) መለያን የሚያገልጽ ሲሆን፣ የኢ,2.548,47,11.885,256,
+E06,closed_book_knowledge,"አንድ byte (Byte)  नसते. ती  finite (Finite) असते.
+",አንድ ባይት (Bits) ስንት ቢት (Bits) ይይዛል፣ ይህም 128 ፊስቶዶክስ (bits) ይይዛል።,0.951,19,2.164,41,
+E07,closed_book_knowledge,"የህዳሴ ዘመን (Renaissance) በሳይንስ, በስነ-ጥበብ እና በፍልስፍና ላይ ያመጣቸውን አበይት ለውጦች አብራራ છે. આ તસૂહમાં, scholars દ્વારા સંભવિત થયેલા તસૂહલો અને સં anyces દ્વારા સંભવિત થયેલા તસૂહલોની એક વિગતવાર માહિતી છે.
+",የህዳሴ ዘመን (Renaissance) በሳይንስ፣ በስነ-ጥበብ እና በፍልስፍና ላይ ያመጣቸውን አበይት አብራራ በኢትዮጵያ ውስጥ ያለውን የኢኮኖሚ እና የሥነ-ምስራቅ አበይት አቅራቢያዊ የነበረው የኢትዮጵያ ዘመን ነው። ይህ ዘመን በኢትዮጵያ ውስጥ ያለውን የኢኮኖሚ እና የሥነ-ምስራቅ አበይት አቅራቢያዊ የነበረው የኢትዮጵያ ዘመን አብራራለች።,5.625,92,6.185,140,
+E08,closed_book_knowledge,የግብፅ ፒራሚዶች በጥንታዊ ነገስታት (Medieval) የተቀበሩበትና የተገነቡበት ሃይማኖታዊ कार मात्र identscreen (witchcraft) accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts,የግብፅ ፒራሚዶች በግብጽ ፒራሚዶች ውስጥ የተገነቡበትና የተገነቡበት ሃይማኖታዊ ምክንያት በግብጽ ፒራሚዶች ውስጥ የግብጽ ፒራሚድ ፒራሚድ (Pari Mary) መሬት ላይ የተመሰረተውን የግብጽ ፒራሚድ ፒራሚድ (Pari Mary) መሬት ነው።,11.977,256,4.672,94,
+E09,closed_book_knowledge,"የዜግነት መብቶችና ግዴታዎች (Citizenship Rights and Duties) በዲሞክራሲያዊ ስርዓት ውስጥ ratsa።
+",የዜግነት መብቶችና ግዴታዎች (Citizenship Rights and Duties) በዲሞክራሲያዊ ስርዓት ውስጥ የሚገኙ የዜግነት ሥርዓት መብቶች፣ የዜግነት ሥርዓት መብቶች እና የዜግነት ሥርዓት መብቶች ናቸው። እነዚህ ሥርዓቶች የዜግነት ሥርዓት መብቶች፣ የዜግነት ሥርዓት መብቶች እና የዜግነት ሥርዓት መብቶች የዜግነት ሥርዓት መብቶች ናቸው።,1.326,35,5.437,115,
+E10,closed_book_knowledge,"አ nepattu ንግድ ለሀገራት እድገት የሚያስገኛቸውን ሶስት ዋና ዋና ጥቅમતો આ પ્રમાણે છે:
+
+1. **સständig અને આકર્ષક ભાષા:** ιώνમાં એક આકર્ષક અને આબોહव રહેલું ભાષાનો ઉપયોગ કરવામાં આવે છે, જે લોકોને આકર્ષિત કરે છે અને તેમને આ communities માટે વધુ સારી રીતે સમર્થન આપે છે.
+
+2. **સständig અને આબોહव રહેલું સંસ્કૃતિ:** ιώνમાં એક સständig અને આબોહव રહેલું સંસ્કૃતિનો ઉપયોગ કરવામાં આવે છે, જે લોકોને આ communities માટે વધુ સારી રીતે સમર્થન આપે છે.
+
+3. **સständig અને આબોહव રહેલું સંસ્કૃતિનું સંચાલન:** ιώνમાં એક સständig અને આબોહव રહેલું સંસ્કૃતિનું સંચાલન કરવામાં આવે છે, જે લોકોને આ communities માટે વધુ સારી રીતે સમર્થન આપે છે.
+
+4. **સständig અને આબોહव રહેલું સંસ્કૃતિનું સંચાલન:** ιώνમાં એક સständig અને આબોહव રહેલું સંસ્કૃતિનું સંચાલન કરવામાં આવે છે, જે લોકોને આ communities માટે વધુ સારી રીતે",አለም አቀፍ ንግድ ለሀገራት እድገት የሚያስገኛቸውን ሶስት ዋና ዋና ዋና ጥቅሞች አጠቃላይ ተጋላሽነት፣ የአካባቢውን መረጃ መምራት እና የአካባቢውን የንግድ እድገት ለመጠበቅ ነው። በተጨማሪም የአካባቢውን የንግድ እድገት ለመቀነስ እና የአካባቢውን የሀገሪቱን መረጃ መምራት እንዲሁም የአካባቢውን የንግድ እድገት ለመጠበቅ የሚረዳው አጠቃላይ ተጋላሽነት ነው።,7.856,256,5.072,116,
+E11,closed_book_knowledge,"गेበሬዎች በአ satu ማሳ ላይ በየአመቱ የተለያዩ ሰብሎችን በማፈራረቅ (Crop Rotation) ለ reasons मध्ये अनेक因素 आहेत. त्यापैकी काही प्रमुख कारणे खालीलप्रमाणे आहेत:
+
+* **पौध विकास:** गेበሬ्स आपल्या आपल्या पदानुक्रमक (seasonal) वृक्षांमध्ये (seasonal patterns) वाढतात. त्यामुळे, ते आपल्या पदानुक्रमक वृक्षांमध्ये (seasonal patterns) वाढवून आपल्या पदानुक्रमक वृक्षांमध्ये (seasonal patterns) वाढतात. यामुळे, ते आपल्या पदानुक्रमक वृक्षांमध्ये (seasonal patterns) वाढतात आणि आपल्या पदानुक्रमक वृक्षांमध्ये (seasonal patterns) वाढतात.
+
+* **उत्नाचे संरक्षण:** गेበሬ्स आपल्या पदानुक्रमक वृक्षांमध्ये (seasonal patterns) वाढवून आपल्या पदानुक्रमक वृक्षांमध्ये (seasonal patterns) वाढतात. त्यामुळे, ते आपल्या पदानुक्रमक वृक्षांमध्ये (seasonal patterns) वाढतात आणि आपल्या पदानुक्रमक वृक्षांमध्ये (seasonal patterns) वाढतात.
+
+* **उपायू:** गेበሬ्स आपल्या पदानुक्रमक वृक्षांमध्ये (seasonal patterns) वाढवून आपल्या पदानुक्रमक वृ",ገበሬዎች በአንድ ማሳ ላይ የተለያዩ ሰብሎችን በማፈራረቅ ለተለያዩ ተጠቃሚዎች የተለያዩ የጤናማ እና ለተለያዩ የሥራ ዘመኖች ይረዳሉ። በተጨማሪም ለተለያዩ የጤናማ ዘመኖች የጤናማ የሆኑ ሰብሎችን በመጠቀም ለተለያዩ የሥራ ዘመኖች ለተለያዩ የጤናማ የሆኑ ሰብሎችን ይረዳል።,8.209,256,4.933,91,
+E12,closed_book_knowledge,የአንድ ሙሉ ክበብ  pharmacological drug Denisovna Edition 2024 Edition ραβदान።,የአንድ ሙሉ ክበብ ማዕዘን ድምር ስንት ዲግሪ በኢትዮጵያ ውስጥ የሚገኙት 12 ክበቦች ናቸው።,0.754,26,1.711,39,
+E13,closed_book_knowledge,"సరే, నేను તમને 3 ర्यो ርዝ்கள્યા  stocking ርዝ்கால vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti",ሦስት ማዕዘኖች በጎናቸው ርዝመት መሠረት የሚመደቡባቸውን አቅራቢያት፣ የፀሐይ አቅም እና የውሃ መጠን ናቸው። እነዚህ አቅራቢያት በጎናቸው ርዝመት መሠረት የሚመደቡባቸው የፀሐይ አቅም፣ የውሃ መጠን እና የጎናቸው ርዝመት መሠረት የሚመደቡባቸው የጎናቸው ርዝመት ናቸው።,7.277,256,4.447,101,
+E14,closed_book_knowledge,"የቴአትር ጥበብ (Drama) ገፀ-ባህሪያትንና ጭብጥን በመድረክ ላይ የማቅረብ መርህ አብራራ።
+",የቴአትር ጥበብ (Drama) ገፀ-ባህሪያትንና ጭብጥን በመድረክ ላይ የማቅረብ መርህ አብራራ ማለት የአንድነትን እና የአንድነትን ለመጠበቅ፣ የአንድነትን ለመቀነስ እና የአንድነትን ለመጠበቅ ያለውን የትምህርት እና የትምህርት መረጃ ማቅረብ ነው። ይህ ሂደት የአንድነትን ለመቀነስ፣ የአንድነትን ለመጠበቅ እና የአንድነትን ለመጠበቅ ያለውን የትምህርት እና የትምህርት መረጃ ማቅረብ ይረዳል።,1.163,40,6.6,134,
+E15,closed_book_knowledge,"የልብ ወለድ ሴራ፣ ገጸ ባህርያትና መቼት በአንድ የተዋሃradiated ታሪክ ግንባታ ውስጥ ratsilla አጠቃልለህ ግለጽ።
+",የልብ ወለድ ሴራ፣ ገጸ ባህርያትና መቼት በየአራት ዓመታት ውስጥ በኢትዮጵያ ውስጥ ያለውን የነበሩት የትምህርት እና የትምህርት ሚና አድርገዋል። ሴራዎቹን የትምህርት ሚና በየአራት ዓመታት ውስጥ በኢትዮጵያ ውስጥ ያለውን የትምህርት ሚና አድርገዋል። ሴራዎቹን የትምህርት ሚና በየአራት ዓመታት ውስጥ በኢትዮጵያ ውስጥ ያለውን የትምህርት ሚና አድርገዋል።,1.469,44,6.013,137,
+E16,instruction_following,በኢትዮጵያዊ ወizards ተሽከርካሪ ανাসாகለው ክበ dignity 40.,የተሽከርካሪው እስከ 40 ኪሎ ሜትር መጓዝ ትችላለች ተብሏል።,1.049,27,1.255,28,
+E17,instruction_following,የነበሩ አሁን ሊለቁ የወሰኑ የቦርድ አ assistant ስማቸው ማን ነው?,የቦርድ አባል የነበሩ አሁን ሊለቁ የ43 ዓመቱ ትራቪስ በድርጅቱ ውስጥ አንዱ ሆነው የሚቀጥሉ መሆኑን አስታውቀዋል።,0.922,24,2.09,47,
+E18,instruction_following,"እነዚህ ጽሑમને በሀገር አቀፍ ደረጃ ሞዴል የጤና ኤክስቴንሽን ባለሞያ የሆነችው ወ/ሮ ሰናይት 40,000 የጤና ኤክስቴንሽን ባለሙята የሚሰማiquantilla.","በ2013 ዓ.ም በኢትዮጵያ በሀገር አቀፍ ደረጃ ደረጃ ሞዴል የጤና ኤክስቴንሽን ባለሙያ ተብላ የተመረጠችው ማናት 40,000 የጤና ኤክስቴንሽን ባለሙያዎችን በመወከል ሽልማቱን ተቀብላለች።",2.075,65,4.525,81,
+E19,instruction_following,ፌስቡክ የሰዎችን የፊት ገጽታ መለያዎች መሣሪያ በመጠቀም ምን ዓይነት ጥቅም አግኝቷል તે અંગેની માહિતી ઉપલબ્ધ નથી.,ፌስቡክ የሰዎችን የፊት ገጽታ መለያ መሣሪያ በመጠቀም ምን ዓይነት ጥቅም አግኝቷል ተገልጿል።,1.175,39,1.464,32,
+E20,instruction_following,የሚከተለውን பதிலை επιβεβElη ቴሌኮም ዋና ሥራ አስፈፃሚ તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકે,የኢትዮ ቴሌኮም ዋና ሥራ አስፈፃሚ ወይዘሪት ፍሬህይወት ታምሩን ጨምሮ ከፍተኛ የስራ ሃላፊዎች ነው።,7.303,256,1.793,41,
+E21,instruction_following,"ከዚህ በታች ያለውን ዝርዝር መረጃ በመጠቀም ለሚከተለው ጥያቄ መልስ ይስጡ:
+
+""ጎግል የተወሰኑ ደንበኞችን የግል ተንቀሳቃሽ ምስል በስህተት ለሌሎች በማጋራቱ ይቅርታ ጠይቋል። ችግሩ ደንበኞች የግል ገፃቸውን ለመለየት የሚስችለውን ምስል ında በመጫን በሚያስችለው ክፍል ላይ የተፈጠረ መሆኑን ኩባ mint Abu Dhabi દ્વારા አስታውቋል። ስህተቱ ለአራት ቀናት ማለትም ካሳለፍነው ጥቅምት 21 እስከ 25 ቀን 2019 ድርስ የቆየ መሆኑ ነው የተገለ确ው werd። በዚህ ወቅትም በችግሩ የተጠቁ ደንበኞች የራሳቸው ያልሆነ አሊያም ተገቢውን ጥራት ያላሟላ ተንቀሳቃሽ ምስል የደረሳቸው መሆኑ ተጠቁሟል። ይሁን እንጂ ኩባ mint Abu Dhabi  finanțiunea הד está ținامه ținامه ținامه ținامه ținامه ținامه ținامه ținامه țin",የደንበኞችን የግል ተንቀሳቃሽ ምስል በስህተት ለሌሎች ያጋራው ጎግል ይህ ችግር ያጋጠመው መቼ ነበር?,8.278,256,1.851,42,
+E22,instruction_following,רוסያ ለዓለም አቀፍ በይነመብራሽ አማራጭ የሚሆን ኢንተርኔት ስሙ આ છે.,የአር ዩ ኔት የተሰኘ ኢንተርኔት በተሳካ ሁኔታ መሞከሯ ታውቋል ይህ ኢንተርኔት ስሙ ምን ይባላል?,0.98,31,1.893,42,
+E23,instruction_following,"እነዚህ ጥያቄዎች መልስ ስጥ שלכם مشتاقی आहेत.
+",የቤተልሄም ኮከብ ተብሎ የሚጠራው ክስተት ከ2 ሺህ ዓመታት በፊት ነበር።,0.573,20,1.337,31,
+E24,instruction_following,"ከዚህ በታች ያለውን ጽሑፍ በማጣቀስ ለሚከተለው መልስ ይስጡ:
+
+** መልስ correspondence:**
+
+1.  **Text:** ""አንድ ወানী nephews ተማሪ ከወዳደቁ ቁሳቁሶች በውሃ ላይ የሚነዳ ብስክሌት ጀልባ መስራቱ ተገለጸ፡፡ ጌታባለው መኩሪያው የተባለው ወizards በባህርዳር ዩኒቨርስቲ 3ኛ ዓመት የሜካኒካል ኢንጅነሪንግ ተማሪ ሲሆን ወጣቱ የወዳደቁ ፒፒሲ ትቦዎች፣ የላሜራ ብረቶችና ፌሮዎች እንዲሁም 服务ት መስጠት ያቆሙ የብስክሌት አካላትን ተጠቅሞ ነው  buttocks ጀልባ (Pedal-Boat) መስራት የቻለው፡፡ ጌታባለው መኩሪያው ከወዳደቁ ቁሳቁሶች የሰራውን የብስክሌት ጀልባ በውሃ ላይ በመንዳት ሙከራ ማድረጉም ተገልጿል፡፡""
+
+2.  **Translation:** ""አንድ ወানী nephews ተማሪ ከወዳደቁ",ፈጠራውን እንዴት አድርጎ ለማሳየት ሞከረ በባህርዳር ዩኒቨርስቲ 3ኛ ዓመት የሜካኒካል ኢንጅነሪንግ ተማሪ ሲሆን ወጣቱ የወዳደቁ ፒፒሲ ትቦዎች፣ የላሜራ ብረቶችና ፌሮዎች እንዲሁም አገልግሎት መስጠት ያቆሙ የብስክሌት ጀልባ መስራት የቻለው።,8.16,256,5.197,96,
+E25,instruction_following,"በውሃ ላይ የሚሰራ የኤሌክትሪክ ብስክሌት በገበያ ላይ መዋሉ ተነገረ።
+",የኤሌክትሪክ ብስክሌቱ በፔዳል የሚሰራ ሲሆን፥ አንድ ጊዜ ባትሪ ከተሞላ በኋላ ለአንድ ሰዓት ያክል መጠቀም ይቻላል።,0.907,31,1.793,40,
+E26,instruction_following,"በቅልልቦሽ ጨዋ auction मध्ये, ""ብቀ"" (Bűn) म्हणजे ""በመቀለብ"" (Bűn) म्हणजे ""በመያዝ"" (Bűn).
+",በቅልብልቦሽ ጨዋታ ብቀጣጥል ማለት ብቀጥል ማለት ነው።,1.374,47,1.049,23,
+E27,instruction_following,እነዚህ መጻሕፍት በኢትዮጵያ የዘመናዊ ሕትመት ሥራ በማን ዘመን ተጀመረ.,በኢትዮጵያ የዘመናዊ ሕትመት ሥራ በማን ዘመን ተጀመረው በ፲፱፻፲፭ ዓ/ም ነው።,0.95,31,2.022,44,
+E28,instruction_following,አረማይክ ቋንቋን ይፋዊ ቋንቋ ያደረገው የአሦር ንጉሥ ማነው?,አረማይክ ቋንቋን ይፋዊ ቋንቋ ያደረገው የአሦር ንጉሥ ማነው?,0.908,31,1.375,31,
+E29,instruction_following,"የሚከተለውን ανήget text ጽሑMât ሓበን for further explanation.
+",ዓረብኛ ቋንቋዎች ቤተሠብ አባል ሆኖ የዕብራይስጥ የአረማያ እና የአማርኛ ቅርብ ዘመድ ነው።,0.667,23,1.749,40,
+E30,instruction_following,"ከዚህ በታች ያለውን ዝርዝር መረጃ በመጠቀም ለሚከተለው ጥያቄ መልስ ይስጡ:
+
+""ግስላ በዱር ሲኖር ለ reasons accounts for his longevity. 
+*   He is a very old man.
+*   He is a very old man.
+*   He is a very old man.
+*   He is a very old man.
+*   He is a very old man.
+*   He is a very old man.
+*   He is a very old man.
+*   He is a very old man.
+*   He is a very old man.
+*   He is a very old man.
+*   He is a very old man.
+*   He is a very old man.
+*   He is a very old man.
+*   He is a very old man.
+*   He is a very old man.
+*   He is a very old man.
+*   He is a very old man.
+*   He is a very old man.
+*   He is a very old man.
+*   He is a very old man.
+*   He is a very old man.
+",ግስላ በዱር ሲኖር እስከ 10 አመት እንደሚኖር ሲታወቅ በሰው ተይዘው ሲኖሩ እስከ 20 አመት እድሜ ያስመዘገቡ ግሥሎች አሉ።,11.582,256,2.202,47,
+E31,translation,"உண்மைதான்! ""ከ አማርኛ ወደ English ተርጉም"" (Kě yī móxíng yào English) என்பதன் అర్థం হল, ""આपर्यंत જ पदचिह्न (plaque) ની જરૂર છે"" (Yàfǐng jī yào English).
+",The question you ask is very important.,1.763,62,0.538,9,
+E32,translation,"நீங்கள் குறிப்பிட்டது போல், 'አጠራር' என்ற சொல் அமெரிக்காમાં பயன்படுத்தப்படுகிறது.","Therefore, it is said that in the past, the country and the country have been divided by the same political and political divisions.",0.601,20,1.605,27,
+E33,translation,"The provided context is a sentence in English. It is a simple sentence that means:
+
+""This is for all adults, but this is important for each family.""
+",It is important for every member of the family to be young at the same time as the age of the person.,1.01,35,1.414,24,
+E34,translation,"சரி, હું આ ጽሑφейten ઑophagώντας (ή ""આ ጽሑφейten"" - આ ጽሑφейten) ને English ઑophagώντας (ή ""આ ጽሑφейten"" - આ ጽሑφейten) માં રૂφώντας આશ comments.","Therefore, this task is not relevant to me.",1.972,69,0.51,11,
+E35,translation,"እпитантеля (питантеля)
+",My brother was very kind to me when I was sick.,0.26,9,0.594,13,
+E36,translation,"እमला አገራ Bank, UAEU, በሰላም እና በመሳሳিতামታ русском ላይ ት delve fit.
+","It is necessary to understand the company's operations, services, and staff skills to accurately describe the UAEU's success and the quality of its services.",0.838,29,1.454,33,
+E37,translation,"እमला ዶክተሮች 'ልጅ ወልደሻል ነገር ግን በሕይወት የለም' ይ充满ونه።
+",Doctors arrive at the hospital to find that the staff has been assigned a job.,0.866,30,0.75,17,
+E38,translation,"The context provided is a sentence that describes a situation where people are moving away from their homes and are now living in a new place.
+",በአንድነት ያሉ ሌሎች ሰዎች አገራቱን እየተገኘ እና እየተገኘ ይገኛሉ።,1.012,29,1.059,24,
+E39,translation,"The sentence ""Part of me feels like I've given up on hearing from the Sentinel"" is in English.
+",በአንድ ላይ አለው ከሰውን ጋር ያለውን አድናሽ አለው።,0.965,25,0.893,20,
+E40,translation,"The provided context is a very simple and direct statement of a common and generally accepted idea. It's a concise and clear explanation of the benefits of both activities.
+",በአንድነት አውሰዱ፣ እና አዲሱ አምጪዎች ግን ምንም አደጋ አይታሉም።,3.946,35,1.144,26,
+E41,translation,"આ એક અતિશય અને અદையும் છે. આમાં ""Everything is becoming more transparent and honestly"" એ એક મહત્વપૂર્ણ શબ્દ છે.
+",ይህንን የኢንተርኔት ጽሑፍን የበለጠ ተህዋሲያዊ እና በሰላው ላይ የተመሰረተ ማድረግ የሰላው ጊዜ ነው።,3.544,33,1.794,40,
+E42,translation,"The context provided is a very simple and direct statement. It's a common and informal way to express admiration or appreciation.
+",በአንድነት አጠቃላይ አቅርቦት ብዙ አቅርቦት ተጀምሯል።,2.302,27,0.975,21,
+E43,translation,"The sentence ""It's really important to make time to talk to the children"" is in English.
+",ይህ የትምህርት ቤት ውስጥ ውስጥ እየተደረገ ነው።,0.714,23,0.782,16,
+E44,translation,"The sentence is grammatically correct and conveys the meaning accurately.
+",በአንድነት ውስጥ ያለውን የዓለም አቀፍ አቅም እንዳይሰጥኝ ጊዜን ያብራራ።,0.407,14,1.678,29,
+E45,translation,"The context provided is a statement about the importance of the Mediterranean region in Europe. It emphasizes the need for a common European project based on a Mediterranean perspective.
+",በአፍሪካ ውስጥ ያለውን የዓለም አቀፍ አቅራቢያን ለመቀነስ በዓለም አቀፍ ጤና፣ በዓለም አቀፍ ጤናነት እና በዓለም አቀፍ ጤና ሁኔታ የተመሠረተ አቅራቢያን ለማቅረብ በዓለም አቀፍ ጤና አቅራቢያ ላይ አቅራቢያችንን ያረጋግጡ።,0.936,33,4.542,93,
+E46,summarization,"በፌስቡክ ገጹ ላይ በኬንያ መሪዎች ስር ከመተዳደር ጎንደር ውስጥ የቤት ውስጥ አገልጋይ ሆኖ መኖርን እንደሚመርጥ የሚናገረው ብሪያን ኪቤት ቤራ ሰኞ እ nephews ቤተ መንግሥቱ ውስጥ ለመግባት የሞከረው። በጆሞ ኬንያታ የግብርናና የቴክኖሎጂ ዩኒቨርስቲ ውስጥ የአምስተኛ ዓመት የሜካኒካል ኢንጂነሪንግ ተማሪ የሆነው ብራያን፤ ቤተ መንግሥት ሊገባ ሲል ግራ ትከሻው ላይ በጥይት ከቆሰለ በኋላ ሆስፒ colleges ገብቷል። •እምቦጭ የጣና ቂርቆስ መነኮሳትን ከገዳሙ እያስለቀቀ ነው •""ማንም ቢሆን ኢትዮጵያን ለብቻዬ ሰራኋት  ሊል አይቻለውም"" ጠ/ሚ ዐብይ ፖሊስ እንዳለው የ25 ዓመቱ ብሪያን ኪቤት ወደ ቤተ መንግሥቱ ለመግባት ሲሞክር የተመለከተው የጥበቃ መኮንን ግ",በፌስቡክ ገጹ ላይ በኬንያ መሪዎች ስር ከመተዳደር ጎንደር ውስጥ የቤት ውስጥ አገልጋይ ሆኖ መኖርን እንደሚመርጥ የሚናገረው ብራያን ቤተ መንግሥቱ ሊገባ ሲሆን፣ በጆሞ ኬንያታ የግብርናና የቴክኖሎጂ ዩኒቨርስቲ ውስጥ የአምስተኛ ዓመት የሜካኒካል ኢንጂነሪንግ ተማሪ የሆነው ብራያን ነው።,8.341,256,4.762,105,
+E47,summarization,"આ એક અતિશத்தicul text છે. આ textમાં  Hobbes Principles (ነ der Hobbes) ની કાયદાઓ અને ጄይ-ዚના የነ Екатериን የ Abu Dharr  discourse (ነ Der Abu Dharr discourse) ની કાયદાઓ વિશે માહિતી આપવામાં આવી છે.
+
+આ textમાં ጄይ-ዚના የነ Екатериን የ Abu Dharr discourse ની કાયદાઓ અને તેના પર arguments આપવામાં આવ્યા છે. આ માહિતીનો ઉપયોગ करून,Textમાં ጄይ-ዚના የነ Екатериን የ Abu Dharr discourse ની કાયદાઓ અને તેના પર arguments આપવામાં આવ્યા છે.
+
+આ textમાં ጄይ-ዚના የነ Екатериን የ Abu Dharr discourse ની કાયદાઓ અને તેના પર arguments આપવામાં આવ્યા છે. આ માહિતીનો ઉપયોગ करून,Textમાં ጄይ-ዚના የነ Екатериን የ Abu Dharr discourse ની કાયદાઓ અને તેના પર arguments આપવામાં આવ્યા છે.
+
+આ textમાં ጄይ-ዚના የነ Екатериን የ Abu Dharr discourse ની કાયદાઓ અને તેના પર arguments આપવામાં આવ્યા છે. આ માહિતીનો ઉપયોગ करून,Textમાં ጄይ-ዚના የነ Екатериን የ Abu Dharr discourse ની કાય",የሙዚቃ ሳይሰሙ መወዛዋዝ ይችላሉ።,7.781,256,0.715,15,
+E48,summarization,እነዚህ መ edition ጽሑፍ של ጄኔራል ሼክ ፋንታ ማዲ ዴምቤሌ דיερَّة של ጄኔራል ሼክ ፋንታ ማዲ ዴምቤሌ ጄኔራል Denis ሼክ ፋንታ ማዲ ዴምቤሌ ጄኔራል በፈረንሳይ የሚገኝ ሴይት ሲር የጦር አካዳሚ ምሩቅ ናቸው።,መፈንቅለ መንግሥቱን ካቀነባበሩት መካከል የሶስቱን ማንነት በፈረንሳይ ወታደራዊ ስልጠና ወስደው እንደተመለሱ ሲሆን፣ የኮሎኔል ማሊክ በካቲ ወታደራዊ ማሰልጠኛ አካዳሚ ላይ የተነሳው አመፅን መሪ ናቸው። በተጨማሪም የካቲ ወታደራዊ ማሰልጠኛ አካዳሚ የቀድሞ ዳይሬክተርና የባህርያቸው መረጃዎች አስፍሯሉ።,3.175,95,6.326,121,
+E49,summarization,"በመጀመሪያ, 2 አረፍተ ነገር አጠቃል:
+
+*   የሚከተለ ጽሑፍ በ 2 አረፍተ ነገር አጠቃል የሚ要κειን አጠቃል.
+*   በመጀመሪያ, 2 አረፍተ ነገር አጠቃል የሚ要κειን አጠቃል.
+
+આ ጽሑፋዊ አጠቃનો આશój አርவாரildo દ્વારા የሚሰጠται.",በአልማዝ ተፎካካሪ 5 እና 10 ሺህ ሜትሮች ሯጯ አልማዝ ዘንድሮን አሸናፊነት አድርጓል። በወንዶቹ የለንደን የ10 ሺህ ሜትር አሸናፊ ትውለደ ሶማሊያ እና የእንግሊዝ ዜግነት ያለው ሞ ፋራህ ከኒከርክና ባርሺም ተነግሯል።,2.674,94,4.41,100,
+E50,summarization,"የተሰጠውን ጽሑፍ ማጠቃለያ አውጣለት
+
+context:
+የዘረ መል ካርታው ከቅርብット ወዲህ እየታየ ያለውን ከባድ ሙቀትም ሆነ ማንুরুুরুخ вопросыም ሆነ तুরুшком ያለውን ከባድ ሙቀትም ሆነ ማንুরুুরুخ questionsም ሆነ የአየር ጸባይ መቋቋም የሚችሉ አዳዲስ የስንዴ ዝርያዎችን በአጭር ጊዜ ለማስተዋወቅ ይረዳል ተብሎለታል። የምርምር ስራው ውጤት በአ satu ሳይንሳዊ ግኝቶች የሚቀርቡበት መጽሄት ላይ ታትሟል። በጆን ኢንስ የምርምርም ማዕከል የሰብል ዘረመል ጥናት ክፍል መሪ የሆኑት ፕሮፌሰር ክሪስቶባል ኡዋይ አዲሱን ግኝት የስንዴ ምርትን በአስገራሚ ሁኔታ የሚቀይር ነው ብለውታል። • ምድር በአስፈሪ ሁኔታ እየሞቀች ነው • የሰው ልጅ ዝግመተ ለውጥ በአየር ፀባይ ይመራ  ነበር • የካርቦንዳይኦክሳይ",የዘረ መል ካርታው ከቅርብ ጊዜ ወዲህ እየታየ ያለውን ከባድ ሙቀት፣ የአየር ጸባይ መቋቋም እና የሰው ልጅ ዝግመተ ለውጥ በማሳደግ የአለምን ህዝብ ለመመገብና የአለምን ስንጠብቀጥን ለመከላከል ይረዳል። ይህ ምርምር ውጤት በ2050 የዓለማችን የህዝብ ቁጥር ወደ 9.6 ቢሊዮን ከፍ የሚል ሲሆን፣ አሁንም ብዙ ቁጥር ያለው የአለማችን ህዝብ መራቡ አይቀርም እያሉ፤ ይህም የአለምን ህዝብ ለመመገብና የአለምን ስንጠብቀጥን ለመከላከልና የአለምን ስንጠብቀጥን ለመከላከልና የአለምን ህዝብ ለመመገብ በቂ ናቸው።,13.865,256,9.757,194,
+E51,summarization,"આ አርፍተ ነገር ይዘት ጠቅላላ ሀሳብ በፅሁፍ አስቀምጥ છે.
+",አምስት ልጆችን በኢትዮጵያና በየአራት አመታት በሆስፒታል አዋላጅ ላይ አጋጥሞኝ አድርጓል። በተጨማሪም መንታ ወይም ሶስት ልጆች የሚያጋጥሙ አጋሯንና ህፃናቱ በሙሉ ጤና ቢወለዱም እንክብካቤንና ክትትልን ይሻሉ።,0.814,27,3.863,87,
+E52,summarization,"የተሰጠውን ጽሑፍ שלحةletter מתארת את היתרונות של מתן תשלום מקסיקלי למוסדות מתקדם בתחום הכתובת. הנה הניתוח של היתרונות:
+
+*   **פרשנות ברורה:** הניתוח מתאר בצורה ברורה ומתאים לקהל רחב של אנשים.
+*   **פרשנות מדויקת:** הניתוח מדויק ומדגיש את היתרונות של מתן תשלום מקסיקלי.
+*   **פרשנות מתמטית:** הניתוח מתמקד בפרשנות ברורה של היתרונות של מתן תשלום מקסיקלי.
+*   **פרשנות מפורטת:** הניתוח מתאר את היתרונות של מתן תשלום מקסיקלי.
+
+**היתרונות של מתן תשלום מקסיקלי:**
+
+*   **פיתוח מקצועי:** מתן תשלום מקסיקלי יכול לשפר את היתרונות של המוסד, כמו שיפור הית",ለሳምንት አገልግሎቱ ተቋርጦባቸው ከነበሩት አካባቢዎች መካከል አንዱ በሆነው በአላማጣ ሙሉ በሙሉ የቴሌኮም አገልግሎት መጀመሩንና የተወሰኑ ቀናት መቆጠሩን ኃላፊ ገልፀዋል። በተጨማሪም በምዕራብ በኩል በዳንሻ፣ በተርካን፣ ሁመራ፣ ሽራሮ፣ ማይካድራና ማይፀብሪም አገልግሎቱ በከፊል ተጀምሯል፣ ይህም የኤሌክትሪክ ኃይል አገልግሎት ባለመኖሩንና የኃይል አቅርቦት ችግሩን ለመቀየር ይረዳል።,7.748,256,7.107,148,
+E53,summarization,"የዚህን አርፍተ ነገር ይዘት ጠቅላላ ሀሳብ በፅሁፍ አስቀምጥ.
+",የ33 ዓመቷ ካትሪያና ሃንድዝዩክ ሕልፈት ዩክሬናውያንን እጅጉን ያስደነጠው ሲሆን፣ የአሲድ ጥቃቱ ካደረሰ በኋላ በሕክምና ስትረዳ ብትቆይም ከሦስት ወራት በፊት ሕይወቷ አልፏል።,1.098,28,3.463,73,
+E54,summarization,"આ ጽሑ מד is a very good and clear example of how a language model can be used to generate text. Here's why it's effective:
+
+*   **Clear and Concise:** The language is easy to understand and avoids jargon.
+*   **Specific and Detailed:** It provides specific details about the characters, their motivations, and the nature of the problem.
+*   **Contextual:** It provides context about the situation, including the history of the characters and the nature of the problem.
+*   **Reasonable Length:** It's a relatively long text, which is good for a language model to process.
+*   **Focus on the Problem:** It highlights the core issue of the problem and the need for a solution.
+*   **Provides a Clear Explanation:** It explains the reasoning behind the problem and the need for a solution.
+
+It's a well-crafted and informative text that effectively communicates the problem and the need for a solution.",በሕንድ እስካሁን ድረስ ቫይረሱ የተገኘባቸው ሰዎች ቁጥር ከሌሎች አገራት አንፃር ሲታይ አነስተኛ ነው። ይህ መልዕክት ደዋዩ ብቻ የሚሰማው ሲሆን፣ የመደበኛው ጥሪው አካል አይደለም ተብሏል።,5.932,201,2.777,63,
+E55,summarization,"በጎ ፈቃደኞቹ ከጸሀይ ብርሀን የሚገኘው ቫይታሚን ዲ እጥረት ካለባቸው ለሚቀጥሉት ስድስት ወራት በፖስታ ቤት በኩል የቫይታሚን ዲ እንክብሎች ወደቤታቸው ይላክላቸዋል። የዩናይትድ ኪንግደም ዜጎችና ነዋሪዎች ደግሞ የብርዱ ወቅት እየመጣ መሆኑን ተከትሎ የቫይታሚን ዲ እጥረት በሰውነታችሁ ውስጥ ሊፈጠር ስለሚችል እንክብሎቹን ብትወስዱ ጥሩ ነው ተብለዋል።
+
+የቫይታሚን ዲ እንክብሎቹ ከኮቪድ ጋር በተያያዘ ብቻ ሳይሆን አጠቃteleም አጠቃላይ በሽታ የመከላከል አቅምን ከፍ ለማድረግና ኢንፌክሽኖችን ለመቀነስም በእጅጉ ጠቃሚ ነው ተብሏል። የቫይታሚን ዲ እጥረት የሚታይባቸው persons አብዛኛዎቹ እድሜያቸው የገፋና የአፍሪካ አልያም የእሲያ ዝርያ ያለባቸው persons ሲሆኑ እነዚህ persons ለኮቪድ-19",በጎ ፈቃደኞቹ ከጸሀይ ብርሀን የሚገኘው ቫይታሚን ዲ እጥረት ካለባቸው ለሚቀጥሉት ስድስት ወራት በፖስታ ቤት በኩል የቫይታሚን ዲ እንክብሎች ወደቤታቸው ይላክላቸዋል። የቫይታሚን ዲ እንክብሎች ከኮቪድ ጋር በተያያዘ ብቻ ሳይሆን አጠቃላይ በሽታ የመከላከል አቅምን ከፍ ለማድረግና ኢንፌክሽኖችን ለመቀነስ ይረዳሉ።,8.227,256,5.172,116,
+E56,summarization,"በલાવtext  privileged ține ținене את הניתוח של הכתבה. הכתבה מתארת תרחישים של חוסר ביטחון וניצחון של ארגון הציבור, תוך התייחסות לסיפורים של חוסר ביטחון של ארגון הציבור של הכתבה.
+",የኢትዮጵያ ህብረተሰብ ጤና ኢንስቲትዩት ከሁለት ቀናት በፊት በኮሮናቫይረስ ሳይያዙ አዲስ አራት ሰዎች መገኘታቸውን አስታውቆ ነበር። የጤና ጥበቃ ሚንስትር ከበፌስቡክ ገጹ እንዳስታወቀው የአራቱ ግለሰቦች የደም ናሙና ወደ ደቡብ አፍሪካ ለምረመራ ተልኮ ውጤቱ ከኮሮናቫይረስ ነጻ መሆናቸው ተረጋግጧል።,2.337,82,6.295,124,
+E57,summarization,"આ ጽሁፍ ovací એક dense text છે. તે ovací મુખ્ય મુદ્દાઓ અને arguments પર ધ્યાન કેન્દ્રિત કરે છે. અહીં કેટલીક બાબતો છે જે આ ovacíમાં મહત્વપૂર્ણ છે:
+
+* **የኦሮሚያ ክልል ፕሬዚዳንት እና የኦዴ legislative ሊቀመንበር ının ልዩነት:** ovací ovací argumentોમાં, ının ልዩነት અને તેના દ્વારા થતી સમસ્યાઓ વિશે વાત કરવામાં આવી છે.
+* **የመበታተን ባህል ወደ ችግር እና ድህነት ነው የሚወስደን:** ının argumentોમાં, ının characteristic arguments અને hispan political positions પર ભાર મૂકવામાં આવ્યો છે.
+* **አቶ ሌንጮ ının የፓርቲ ውህደት ብቻ ሳይሆን የህዝብ አንድነት ጭምር ያስፈልገናል፤ የኦሮሞ ፖለቲካ ፓርቲዎች እንደ ከዚህ ቀደሙ ሳይሆን እንደዛሬ ነው ማሰብ:** ının argumentોમાં, ının argumentોમાં, ının argumentોમાં, ının argumentોમાં, ının argumentોમાં, ının argumentોમાં, ının argumentોમાં, ının argumentોમાં, ",የኦሮሚያ ክልል ፕሬዚዳንት እና የኦዴፓ ምክትል ሊቀመንበር የሆኑት አቶ ለማ መገርሳ፣ ኦዴፓ በወጣቶች የተሞላ ፓርቲ ነው። በኦሮሞ ዴሞክራቲክ ግንባር አመራሮች፣ በኢሚግሬሽንና የዜግነት ጉዳዮች ተቋም፣ ምርጫ ኃይል እና አርማ ያሉ የተለያዩ የፖለቲካ ድርጅቶችን በመቀበል ለሃገርም ጠቀሜታውና ለኦሮሚያ ብቻ ሳይሆን ለሃገርም ጠቀሜታው ይረዳሉ።,7.328,256,6.072,139,
+E58,summarization,"આ አረፍተ ነገር ስለ ምንድን ነው የሚያወራው છે.
+",ይህ አረፍተ ነገር ስለ ምንድን ነው የሚያወራው የአምስት ወራት ከልጇም ጋር በመለያየቷ ጡቷ እንደደረቀ ሲሆን፣ ህፃኗ ኤንጅልም በመጨረሻ ክሊኒክንም ለቃ መሄድ እንደቻለችም ተገልጿል።,0.731,19,3.869,69,
+E59,summarization,"આ એક અર્வாரicul edition છે. આ editionમાં,  esteemed  esteemed individuals (የተሰጠውን ጽሑፍ  abode) દ્વારા published ሪፖርት છે. આ ሪፖርት, በህፃናት ሴቶች ብቻ ሳይሆን በወንዶችም እንደሚከሰት በቅርቡ የተባበሩት መንግሥታት የህፃነት መርጃ ድርጅት (ዩኒሴፍ) ያወጣው ሪፖርት ያሳያል። ምንም እንኳን ከወንዶች ልጆች ይም surgeons መጣስ ነው, ወንዶች ልጆችም ላይ ከፍተኛ ተፅዕኖ እንዳለው ሪፖርቱ በተጨማሪ ይፋፋ አድርጓል። ""ምንም እንኳን በህፃንነታቸው የሚያገቡ ወንዶችና ሴቶች ባላቸው አካላዊና ማህበራዊ ልዩነት ለተመሳሳይ አደጋ ባይጋለጡም ይህ ልምድ ግን እድሜያቸው ያልደረሱ ህፃናትን መብት መጣስ ነው"" በማለት በህፃናት ወንዶች ዘንድ ያለውን detailed ሪፖርት ሪፖርት የፃፉት ኮለን ሙሬይ ጋስተን፣ ክርስቲና ሚሱናስ",የተሰጠውን ሪፖርት በህፃናት ሴቶችና ወንዶች በከፍተኛ ሁኔታ የሚጋለጡና የኢኮኖሚ ጫናና በሚቀጥለው የትምህርትና የቤታቸውን ቀዳዳ ለመሙላት የሚያስረዳ መንግሥት የህፃናት ወንዶችና ሴቶች ያለ ዕድሜያቸው የሚጋቡ ሲሆን፣ በሁለቱም ፆታዎች 765 ሚሊዮን ህፃናት ያለ ዕድሜያቸው የሚጋቡ ሲሆን፣ በ115 ሚሊዮን ብር በላይ ጭማሪ ያሳየው የኢትዮጵያ የዩኒሴፍ ተወካይ ማሪያ ሊሊ ሮድሪገዝ ይናገራል።,8.131,256,7.296,165,
+E60,summarization,"கொடுக்கப்பட்ட માહિતીப்படி, இப்படியான አርፍተ ነገር આ પ્રમાણે છે:
+
+*   **ዘ ሰንደይ ታይምስ እንደዘገበው የፓርላማ አባሉ ላይ ክስ የተመሰረተባቸው በቀድሞ የፓርላማው ሰራተኛ ነው። ግለሰቡ ላይ የቀረበባቸው ክስ በባለፈው ሐምሌና በተያዘው ዓመት ጥር ወር መካከል ባሉት ጊዜያት ከተፈፀሙ አራት distinct ድርጊቶች ጋር የተያያዘ መሆኑንም የከተማው ፖሊስ አስረድቷል። ወግ አጥባቂው ፓርቲ በበኩኑ እንዲህ ዓይነት ክሶችን ከፍተኛ ትኩረት ሰጥቶ እንደሚያየው ገልጿል። ዜናውን ቀድሞ የዘገበው ጋżąው፤ ግለሰቧ ትንኮሳ እንደደረሰባትና ወሲብ እንድትፈፅም እንደተገደ Adopted እና በዚህም ሳቢያ በደረሰባት የአእምሮ ጉዳት ሆስፒታል ለመሄድ መገደዷን አትቷል። የከተማው ፖሊስም በክሱ ላይ",ዘ ሰንደይ ታይምስ እንደዘገበው የፓርላማ አባሉ ክስ የተመሰረተባቸው በቀድሞ የፓርላማው ሰራተኛ ነው። ግለሰቡ በባለፈው ሐምሌና በተያዘው ዓመት ጥር ወር መካከል ባሉት ድርጊቶች የተፈፀሙ ሲሆን፣ ወግ አጥባቂው ክሶችን በዌስትሚኒስተር ላምቤዝ እና በባለፈው ዓመት ሐምሌ ወር መካከል ባሉት ተጨማሪ ክሶች መቀበሉንም አስታውቋል።,7.995,256,6.747,131,

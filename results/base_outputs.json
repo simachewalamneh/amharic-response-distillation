@@ -1,0 +1,493 @@
+{
+ "results": [
+  {
+   "eval_id": "E01",
+   "task": "closed_book_knowledge",
+   "direction": "",
+   "text": "በ1960ዎቹ አብዛኞቹ የአፍሪካ ሀገራት በአ satu ጊዜ የነፃነት ባለቤት ሊሆኑ የቻሉት ለምንድን ነው.\n",
+   "seconds": 5.319712788000061,
+   "new_tokens": 40
+  },
+  {
+   "eval_id": "E02",
+   "task": "closed_book_knowledge",
+   "direction": "",
+   "text": "የስምጥ ሸለቆ ሀይቆች በትናትና በዝናብ ውሃ ደረጃቸውን ጠብቀው የሚቆዩበትን ተፈጥሯዊ ሂደት አብራራ.",
+   "seconds": 3.6955067229998804,
+   "new_tokens": 41
+  },
+  {
+   "eval_id": "E03",
+   "task": "closed_book_knowledge",
+   "direction": "",
+   "text": "የፋሲለደስ ግንብ በየትኛዋ የኢትዮጵያ ታሪካዊ ከተማ ውስጥ ይገኛል.",
+   "seconds": 2.6612388989999545,
+   "new_tokens": 30
+  },
+  {
+   "eval_id": "E04",
+   "task": "closed_book_knowledge",
+   "direction": "",
+   "text": "የአፍሪካ ህብረት (AU) አጀንዳ 2063  abode 2063  abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode 2063 abode",
+   "seconds": 24.600538899999947,
+   "new_tokens": 256
+  },
+  {
+   "eval_id": "E05",
+   "task": "closed_book_knowledge",
+   "direction": "",
+   "text": "በአይፒ አድራሻ (IP Address) እና በMAC አድራሻ (MAC Address) વચ્ચે ప్రయోజિતgre accounts (Proxies) વચ્ચેના ልዩ வேறுபாட்டைக் Фіસ करते हैं।\n",
+   "seconds": 2.547617907000131,
+   "new_tokens": 47
+  },
+  {
+   "eval_id": "E06",
+   "task": "closed_book_knowledge",
+   "direction": "",
+   "text": "አንድ byte (Byte)  नसते. ती  finite (Finite) असते.\n",
+   "seconds": 0.9512304709999171,
+   "new_tokens": 19
+  },
+  {
+   "eval_id": "E07",
+   "task": "closed_book_knowledge",
+   "direction": "",
+   "text": "የህዳሴ ዘመን (Renaissance) በሳይንስ, በስነ-ጥበብ እና በፍልስፍና ላይ ያመጣቸውን አበይት ለውጦች አብራራ છે. આ તસૂહમાં, scholars દ્વારા સંભવિત થયેલા તસૂહલો અને સં anyces દ્વારા સંભવિત થયેલા તસૂહલોની એક વિગતવાર માહિતી છે.\n",
+   "seconds": 5.625485715999957,
+   "new_tokens": 92
+  },
+  {
+   "eval_id": "E08",
+   "task": "closed_book_knowledge",
+   "direction": "",
+   "text": "የግብፅ ፒራሚዶች በጥንታዊ ነገስታት (Medieval) የተቀበሩበትና የተገነቡበት ሃይማኖታዊ कार मात्र identscreen (witchcraft) accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts accounts",
+   "seconds": 11.97680543399997,
+   "new_tokens": 256
+  },
+  {
+   "eval_id": "E09",
+   "task": "closed_book_knowledge",
+   "direction": "",
+   "text": "የዜግነት መብቶችና ግዴታዎች (Citizenship Rights and Duties) በዲሞክራሲያዊ ስርዓት ውስጥ ratsa።\n",
+   "seconds": 1.326236217000087,
+   "new_tokens": 35
+  },
+  {
+   "eval_id": "E10",
+   "task": "closed_book_knowledge",
+   "direction": "",
+   "text": "አ nepattu ንግድ ለሀገራት እድገት የሚያስገኛቸውን ሶስት ዋና ዋና ጥቅમતો આ પ્રમાણે છે:\n\n1. **સständig અને આકર્ષક ભાષા:** ιώνમાં એક આકર્ષક અને આબોહव રહેલું ભાષાનો ઉપયોગ કરવામાં આવે છે, જે લોકોને આકર્ષિત કરે છે અને તેમને આ communities માટે વધુ સારી રીતે સમર્થન આપે છે.\n\n2. **સständig અને આબોહव રહેલું સંસ્કૃતિ:** ιώνમાં એક સständig અને આબોહव રહેલું સંસ્કૃતિનો ઉપયોગ કરવામાં આવે છે, જે લોકોને આ communities માટે વધુ સારી રીતે સમર્થન આપે છે.\n\n3. **સständig અને આબોહव રહેલું સંસ્કૃતિનું સંચાલન:** ιώνમાં એક સständig અને આબોહव રહેલું સંસ્કૃતિનું સંચાલન કરવામાં આવે છે, જે લોકોને આ communities માટે વધુ સારી રીતે સમર્થન આપે છે.\n\n4. **સständig અને આબોહव રહેલું સંસ્કૃતિનું સંચાલન:** ιώνમાં એક સständig અને આબોહव રહેલું સંસ્કૃતિનું સંચાલન કરવામાં આવે છે, જે લોકોને આ communities માટે વધુ સારી રીતે",
+   "seconds": 7.8564855429999625,
+   "new_tokens": 256
+  },
+  {
+   "eval_id": "E11",
+   "task": "closed_book_knowledge",
+   "direction": "",
+   "text": "गेበሬዎች በአ satu ማሳ ላይ በየአመቱ የተለያዩ ሰብሎችን በማፈራረቅ (Crop Rotation) ለ reasons मध्ये अनेक因素 आहेत. त्यापैकी काही प्रमुख कारणे खालीलप्रमाणे आहेत:\n\n* **पौध विकास:** गेበሬ्स आपल्या आपल्या पदानुक्रमक (seasonal) वृक्षांमध्ये (seasonal patterns) वाढतात. त्यामुळे, ते आपल्या पदानुक्रमक वृक्षांमध्ये (seasonal patterns) वाढवून आपल्या पदानुक्रमक वृक्षांमध्ये (seasonal patterns) वाढतात. यामुळे, ते आपल्या पदानुक्रमक वृक्षांमध्ये (seasonal patterns) वाढतात आणि आपल्या पदानुक्रमक वृक्षांमध्ये (seasonal patterns) वाढतात.\n\n* **उत्नाचे संरक्षण:** गेበሬ्स आपल्या पदानुक्रमक वृक्षांमध्ये (seasonal patterns) वाढवून आपल्या पदानुक्रमक वृक्षांमध्ये (seasonal patterns) वाढतात. त्यामुळे, ते आपल्या पदानुक्रमक वृक्षांमध्ये (seasonal patterns) वाढतात आणि आपल्या पदानुक्रमक वृक्षांमध्ये (seasonal patterns) वाढतात.\n\n* **उपायू:** गेበሬ्स आपल्या पदानुक्रमक वृक्षांमध्ये (seasonal patterns) वाढवून आपल्या पदानुक्रमक वृ",
+   "seconds": 8.209494806000066,
+   "new_tokens": 256
+  },
+  {
+   "eval_id": "E12",
+   "task": "closed_book_knowledge",
+   "direction": "",
+   "text": "የአንድ ሙሉ ክበብ  pharmacological drug Denisovna Edition 2024 Edition ραβदान።",
+   "seconds": 0.7537376989998847,
+   "new_tokens": 26
+  },
+  {
+   "eval_id": "E13",
+   "task": "closed_book_knowledge",
+   "direction": "",
+   "text": "సరే, నేను તમને 3 ర्यो ርዝ்கள્યા  stocking ርዝ்கால vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti vyeti",
+   "seconds": 7.276838572000088,
+   "new_tokens": 256
+  },
+  {
+   "eval_id": "E14",
+   "task": "closed_book_knowledge",
+   "direction": "",
+   "text": "የቴአትር ጥበብ (Drama) ገፀ-ባህሪያትንና ጭብጥን በመድረክ ላይ የማቅረብ መርህ አብራራ።\n",
+   "seconds": 1.1634383269999944,
+   "new_tokens": 40
+  },
+  {
+   "eval_id": "E15",
+   "task": "closed_book_knowledge",
+   "direction": "",
+   "text": "የልብ ወለድ ሴራ፣ ገጸ ባህርያትና መቼት በአንድ የተዋሃradiated ታሪክ ግንባታ ውስጥ ratsilla አጠቃልለህ ግለጽ።\n",
+   "seconds": 1.468594610999844,
+   "new_tokens": 44
+  },
+  {
+   "eval_id": "E16",
+   "task": "instruction_following",
+   "direction": "",
+   "text": "በኢትዮጵያዊ ወizards ተሽከርካሪ ανাসாகለው ክበ dignity 40.",
+   "seconds": 1.0485105820000626,
+   "new_tokens": 27
+  },
+  {
+   "eval_id": "E17",
+   "task": "instruction_following",
+   "direction": "",
+   "text": "የነበሩ አሁን ሊለቁ የወሰኑ የቦርድ አ assistant ስማቸው ማን ነው?",
+   "seconds": 0.922021162999954,
+   "new_tokens": 24
+  },
+  {
+   "eval_id": "E18",
+   "task": "instruction_following",
+   "direction": "",
+   "text": "እነዚህ ጽሑમને በሀገር አቀፍ ደረጃ ሞዴል የጤና ኤክስቴንሽን ባለሞያ የሆነችው ወ/ሮ ሰናይት 40,000 የጤና ኤክስቴንሽን ባለሙята የሚሰማiquantilla.",
+   "seconds": 2.0749185780000516,
+   "new_tokens": 65
+  },
+  {
+   "eval_id": "E19",
+   "task": "instruction_following",
+   "direction": "",
+   "text": "ፌስቡክ የሰዎችን የፊት ገጽታ መለያዎች መሣሪያ በመጠቀም ምን ዓይነት ጥቅም አግኝቷል તે અંગેની માહિતી ઉપલબ્ધ નથી.",
+   "seconds": 1.174771987999975,
+   "new_tokens": 39
+  },
+  {
+   "eval_id": "E20",
+   "task": "instruction_following",
+   "direction": "",
+   "text": "የሚከተለውን பதிலை επιβεβElη ቴሌኮም ዋና ሥራ አስፈፃሚ તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકેako  reprehension  Weinstein તરીકે",
+   "seconds": 7.302790460999859,
+   "new_tokens": 256
+  },
+  {
+   "eval_id": "E21",
+   "task": "instruction_following",
+   "direction": "",
+   "text": "ከዚህ በታች ያለውን ዝርዝር መረጃ በመጠቀም ለሚከተለው ጥያቄ መልስ ይስጡ:\n\n\"ጎግል የተወሰኑ ደንበኞችን የግል ተንቀሳቃሽ ምስል በስህተት ለሌሎች በማጋራቱ ይቅርታ ጠይቋል። ችግሩ ደንበኞች የግል ገፃቸውን ለመለየት የሚስችለውን ምስል ında በመጫን በሚያስችለው ክፍል ላይ የተፈጠረ መሆኑን ኩባ mint Abu Dhabi દ્વારા አስታውቋል። ስህተቱ ለአራት ቀናት ማለትም ካሳለፍነው ጥቅምት 21 እስከ 25 ቀን 2019 ድርስ የቆየ መሆኑ ነው የተገለ确ው werd። በዚህ ወቅትም በችግሩ የተጠቁ ደንበኞች የራሳቸው ያልሆነ አሊያም ተገቢውን ጥራት ያላሟላ ተንቀሳቃሽ ምስል የደረሳቸው መሆኑ ተጠቁሟል። ይሁን እንጂ ኩባ mint Abu Dhabi  finanțiunea הד está ținامه ținامه ținامه ținامه ținامه ținامه ținامه ținامه țin",
+   "seconds": 8.277595118000136,
+   "new_tokens": 256
+  },
+  {
+   "eval_id": "E22",
+   "task": "instruction_following",
+   "direction": "",
+   "text": "רוסያ ለዓለም አቀፍ በይነመብራሽ አማራጭ የሚሆን ኢንተርኔት ስሙ આ છે.",
+   "seconds": 0.9796877239998594,
+   "new_tokens": 31
+  },
+  {
+   "eval_id": "E23",
+   "task": "instruction_following",
+   "direction": "",
+   "text": "እነዚህ ጥያቄዎች መልስ ስጥ שלכם مشتاقی आहेत.\n",
+   "seconds": 0.5727589779999107,
+   "new_tokens": 20
+  },
+  {
+   "eval_id": "E24",
+   "task": "instruction_following",
+   "direction": "",
+   "text": "ከዚህ በታች ያለውን ጽሑፍ በማጣቀስ ለሚከተለው መልስ ይስጡ:\n\n** መልስ correspondence:**\n\n1.  **Text:** \"አንድ ወানী nephews ተማሪ ከወዳደቁ ቁሳቁሶች በውሃ ላይ የሚነዳ ብስክሌት ጀልባ መስራቱ ተገለጸ፡፡ ጌታባለው መኩሪያው የተባለው ወizards በባህርዳር ዩኒቨርስቲ 3ኛ ዓመት የሜካኒካል ኢንጅነሪንግ ተማሪ ሲሆን ወጣቱ የወዳደቁ ፒፒሲ ትቦዎች፣ የላሜራ ብረቶችና ፌሮዎች እንዲሁም 服务ት መስጠት ያቆሙ የብስክሌት አካላትን ተጠቅሞ ነው  buttocks ጀልባ (Pedal-Boat) መስራት የቻለው፡፡ ጌታባለው መኩሪያው ከወዳደቁ ቁሳቁሶች የሰራውን የብስክሌት ጀልባ በውሃ ላይ በመንዳት ሙከራ ማድረጉም ተገልጿል፡፡\"\n\n2.  **Translation:** \"አንድ ወানী nephews ተማሪ ከወዳደቁ",
+   "seconds": 8.15959590600005,
+   "new_tokens": 256
+  },
+  {
+   "eval_id": "E25",
+   "task": "instruction_following",
+   "direction": "",
+   "text": "በውሃ ላይ የሚሰራ የኤሌክትሪክ ብስክሌት በገበያ ላይ መዋሉ ተነገረ።\n",
+   "seconds": 0.9073254929999166,
+   "new_tokens": 31
+  },
+  {
+   "eval_id": "E26",
+   "task": "instruction_following",
+   "direction": "",
+   "text": "በቅልልቦሽ ጨዋ auction मध्ये, \"ብቀ\" (Bűn) म्हणजे \"በመቀለብ\" (Bűn) म्हणजे \"በመያዝ\" (Bűn).\n",
+   "seconds": 1.3739541859999918,
+   "new_tokens": 47
+  },
+  {
+   "eval_id": "E27",
+   "task": "instruction_following",
+   "direction": "",
+   "text": "እነዚህ መጻሕፍት በኢትዮጵያ የዘመናዊ ሕትመት ሥራ በማን ዘመን ተጀመረ.",
+   "seconds": 0.9497197319999486,
+   "new_tokens": 31
+  },
+  {
+   "eval_id": "E28",
+   "task": "instruction_following",
+   "direction": "",
+   "text": "አረማይክ ቋንቋን ይፋዊ ቋንቋ ያደረገው የአሦር ንጉሥ ማነው?",
+   "seconds": 0.9079231880000407,
+   "new_tokens": 31
+  },
+  {
+   "eval_id": "E29",
+   "task": "instruction_following",
+   "direction": "",
+   "text": "የሚከተለውን ανήget text ጽሑMât ሓበን for further explanation.\n",
+   "seconds": 0.6673572049999166,
+   "new_tokens": 23
+  },
+  {
+   "eval_id": "E30",
+   "task": "instruction_following",
+   "direction": "",
+   "text": "ከዚህ በታች ያለውን ዝርዝር መረጃ በመጠቀም ለሚከተለው ጥያቄ መልስ ይስጡ:\n\n\"ግስላ በዱር ሲኖር ለ reasons accounts for his longevity. \n*   He is a very old man.\n*   He is a very old man.\n*   He is a very old man.\n*   He is a very old man.\n*   He is a very old man.\n*   He is a very old man.\n*   He is a very old man.\n*   He is a very old man.\n*   He is a very old man.\n*   He is a very old man.\n*   He is a very old man.\n*   He is a very old man.\n*   He is a very old man.\n*   He is a very old man.\n*   He is a very old man.\n*   He is a very old man.\n*   He is a very old man.\n*   He is a very old man.\n*   He is a very old man.\n*   He is a very old man.\n*   He is a very old man.\n",
+   "seconds": 11.582009995000135,
+   "new_tokens": 256
+  },
+  {
+   "eval_id": "E31",
+   "task": "translation",
+   "direction": "am->en",
+   "text": "உண்மைதான்! \"ከ አማርኛ ወደ English ተርጉም\" (Kě yī móxíng yào English) என்பதன் అర్థం হল, \"આपर्यंत જ पदचिह्न (plaque) ની જરૂર છે\" (Yàfǐng jī yào English).\n",
+   "seconds": 1.7627071130000331,
+   "new_tokens": 62
+  },
+  {
+   "eval_id": "E32",
+   "task": "translation",
+   "direction": "am->en",
+   "text": "நீங்கள் குறிப்பிட்டது போல், 'አጠራር' என்ற சொல் அமெரிக்காમાં பயன்படுத்தப்படுகிறது.",
+   "seconds": 0.60052182000004,
+   "new_tokens": 20
+  },
+  {
+   "eval_id": "E33",
+   "task": "translation",
+   "direction": "am->en",
+   "text": "The provided context is a sentence in English. It is a simple sentence that means:\n\n\"This is for all adults, but this is important for each family.\"\n",
+   "seconds": 1.0097345169999699,
+   "new_tokens": 35
+  },
+  {
+   "eval_id": "E34",
+   "task": "translation",
+   "direction": "am->en",
+   "text": "சரி, હું આ ጽሑφейten ઑophagώντας (ή \"આ ጽሑφейten\" - આ ጽሑφейten) ને English ઑophagώντας (ή \"આ ጽሑφейten\" - આ ጽሑφейten) માં રૂφώντας આશ comments.",
+   "seconds": 1.971987592000005,
+   "new_tokens": 69
+  },
+  {
+   "eval_id": "E35",
+   "task": "translation",
+   "direction": "am->en",
+   "text": "እпитантеля (питантеля)\n",
+   "seconds": 0.25995269600002757,
+   "new_tokens": 9
+  },
+  {
+   "eval_id": "E36",
+   "task": "translation",
+   "direction": "am->en",
+   "text": "እमला አገራ Bank, UAEU, በሰላም እና በመሳሳিতামታ русском ላይ ት delve fit.\n",
+   "seconds": 0.83795134900015,
+   "new_tokens": 29
+  },
+  {
+   "eval_id": "E37",
+   "task": "translation",
+   "direction": "am->en",
+   "text": "እमला ዶክተሮች 'ልጅ ወልደሻል ነገር ግን በሕይወት የለም' ይ充满ونه።\n",
+   "seconds": 0.8661453519998759,
+   "new_tokens": 30
+  },
+  {
+   "eval_id": "E38",
+   "task": "translation",
+   "direction": "en->am",
+   "text": "The context provided is a sentence that describes a situation where people are moving away from their homes and are now living in a new place.\n",
+   "seconds": 1.0118312570000398,
+   "new_tokens": 29
+  },
+  {
+   "eval_id": "E39",
+   "task": "translation",
+   "direction": "en->am",
+   "text": "The sentence \"Part of me feels like I've given up on hearing from the Sentinel\" is in English.\n",
+   "seconds": 0.9653911259999859,
+   "new_tokens": 25
+  },
+  {
+   "eval_id": "E40",
+   "task": "translation",
+   "direction": "en->am",
+   "text": "The provided context is a very simple and direct statement of a common and generally accepted idea. It's a concise and clear explanation of the benefits of both activities.\n",
+   "seconds": 3.946305908000113,
+   "new_tokens": 35
+  },
+  {
+   "eval_id": "E41",
+   "task": "translation",
+   "direction": "en->am",
+   "text": "આ એક અતિશય અને અદையும் છે. આમાં \"Everything is becoming more transparent and honestly\" એ એક મહત્વપૂર્ણ શબ્દ છે.\n",
+   "seconds": 3.543651195000166,
+   "new_tokens": 33
+  },
+  {
+   "eval_id": "E42",
+   "task": "translation",
+   "direction": "en->am",
+   "text": "The context provided is a very simple and direct statement. It's a common and informal way to express admiration or appreciation.\n",
+   "seconds": 2.3018084599998474,
+   "new_tokens": 27
+  },
+  {
+   "eval_id": "E43",
+   "task": "translation",
+   "direction": "en->am",
+   "text": "The sentence \"It's really important to make time to talk to the children\" is in English.\n",
+   "seconds": 0.7141898639999908,
+   "new_tokens": 23
+  },
+  {
+   "eval_id": "E44",
+   "task": "translation",
+   "direction": "en->am",
+   "text": "The sentence is grammatically correct and conveys the meaning accurately.\n",
+   "seconds": 0.4070772120001038,
+   "new_tokens": 14
+  },
+  {
+   "eval_id": "E45",
+   "task": "translation",
+   "direction": "en->am",
+   "text": "The context provided is a statement about the importance of the Mediterranean region in Europe. It emphasizes the need for a common European project based on a Mediterranean perspective.\n",
+   "seconds": 0.9356871420000061,
+   "new_tokens": 33
+  },
+  {
+   "eval_id": "E46",
+   "task": "summarization",
+   "direction": "",
+   "text": "በፌስቡክ ገጹ ላይ በኬንያ መሪዎች ስር ከመተዳደር ጎንደር ውስጥ የቤት ውስጥ አገልጋይ ሆኖ መኖርን እንደሚመርጥ የሚናገረው ብሪያን ኪቤት ቤራ ሰኞ እ nephews ቤተ መንግሥቱ ውስጥ ለመግባት የሞከረው። በጆሞ ኬንያታ የግብርናና የቴክኖሎጂ ዩኒቨርስቲ ውስጥ የአምስተኛ ዓመት የሜካኒካል ኢንጂነሪንግ ተማሪ የሆነው ብራያን፤ ቤተ መንግሥት ሊገባ ሲል ግራ ትከሻው ላይ በጥይት ከቆሰለ በኋላ ሆስፒ colleges ገብቷል። •እምቦጭ የጣና ቂርቆስ መነኮሳትን ከገዳሙ እያስለቀቀ ነው •\"ማንም ቢሆን ኢትዮጵያን ለብቻዬ ሰራኋት  ሊል አይቻለውም\" ጠ/ሚ ዐብይ ፖሊስ እንዳለው የ25 ዓመቱ ብሪያን ኪቤት ወደ ቤተ መንግሥቱ ለመግባት ሲሞክር የተመለከተው የጥበቃ መኮንን ግ",
+   "seconds": 8.340568907000034,
+   "new_tokens": 256
+  },
+  {
+   "eval_id": "E47",
+   "task": "summarization",
+   "direction": "",
+   "text": "આ એક અતિશத்தicul text છે. આ textમાં  Hobbes Principles (ነ der Hobbes) ની કાયદાઓ અને ጄይ-ዚના የነ Екатериን የ Abu Dharr  discourse (ነ Der Abu Dharr discourse) ની કાયદાઓ વિશે માહિતી આપવામાં આવી છે.\n\nઆ textમાં ጄይ-ዚના የነ Екатериን የ Abu Dharr discourse ની કાયદાઓ અને તેના પર arguments આપવામાં આવ્યા છે. આ માહિતીનો ઉપયોગ करून,Textમાં ጄይ-ዚના የነ Екатериን የ Abu Dharr discourse ની કાયદાઓ અને તેના પર arguments આપવામાં આવ્યા છે.\n\nઆ textમાં ጄይ-ዚના የነ Екатериን የ Abu Dharr discourse ની કાયદાઓ અને તેના પર arguments આપવામાં આવ્યા છે. આ માહિતીનો ઉપયોગ करून,Textમાં ጄይ-ዚના የነ Екатериን የ Abu Dharr discourse ની કાયદાઓ અને તેના પર arguments આપવામાં આવ્યા છે.\n\nઆ textમાં ጄይ-ዚના የነ Екатериን የ Abu Dharr discourse ની કાયદાઓ અને તેના પર arguments આપવામાં આવ્યા છે. આ માહિતીનો ઉપયોગ करून,Textમાં ጄይ-ዚના የነ Екатериን የ Abu Dharr discourse ની કાય",
+   "seconds": 7.781310219999796,
+   "new_tokens": 256
+  },
+  {
+   "eval_id": "E48",
+   "task": "summarization",
+   "direction": "",
+   "text": "እነዚህ መ edition ጽሑፍ של ጄኔራል ሼክ ፋንታ ማዲ ዴምቤሌ דיερَّة של ጄኔራል ሼክ ፋንታ ማዲ ዴምቤሌ ጄኔራል Denis ሼክ ፋንታ ማዲ ዴምቤሌ ጄኔራል በፈረንሳይ የሚገኝ ሴይት ሲር የጦር አካዳሚ ምሩቅ ናቸው።",
+   "seconds": 3.17514378199985,
+   "new_tokens": 95
+  },
+  {
+   "eval_id": "E49",
+   "task": "summarization",
+   "direction": "",
+   "text": "በመጀመሪያ, 2 አረፍተ ነገር አጠቃል:\n\n*   የሚከተለ ጽሑፍ በ 2 አረፍተ ነገር አጠቃል የሚ要κειን አጠቃል.\n*   በመጀመሪያ, 2 አረፍተ ነገር አጠቃል የሚ要κειን አጠቃል.\n\nઆ ጽሑፋዊ አጠቃનો આશój አርவாரildo દ્વારા የሚሰጠται.",
+   "seconds": 2.6744785339999453,
+   "new_tokens": 94
+  },
+  {
+   "eval_id": "E50",
+   "task": "summarization",
+   "direction": "",
+   "text": "የተሰጠውን ጽሑፍ ማጠቃለያ አውጣለት\n\ncontext:\nየዘረ መል ካርታው ከቅርብット ወዲህ እየታየ ያለውን ከባድ ሙቀትም ሆነ ማንুরুুরুخ вопросыም ሆነ तুরুшком ያለውን ከባድ ሙቀትም ሆነ ማንুরুুরুخ questionsም ሆነ የአየር ጸባይ መቋቋም የሚችሉ አዳዲስ የስንዴ ዝርያዎችን በአጭር ጊዜ ለማስተዋወቅ ይረዳል ተብሎለታል። የምርምር ስራው ውጤት በአ satu ሳይንሳዊ ግኝቶች የሚቀርቡበት መጽሄት ላይ ታትሟል። በጆን ኢንስ የምርምርም ማዕከል የሰብል ዘረመል ጥናት ክፍል መሪ የሆኑት ፕሮፌሰር ክሪስቶባል ኡዋይ አዲሱን ግኝት የስንዴ ምርትን በአስገራሚ ሁኔታ የሚቀይር ነው ብለውታል። • ምድር በአስፈሪ ሁኔታ እየሞቀች ነው • የሰው ልጅ ዝግመተ ለውጥ በአየር ፀባይ ይመራ  ነበር • የካርቦንዳይኦክሳይ",
+   "seconds": 13.86455769500003,
+   "new_tokens": 256
+  },
+  {
+   "eval_id": "E51",
+   "task": "summarization",
+   "direction": "",
+   "text": "આ አርፍተ ነገር ይዘት ጠቅላላ ሀሳብ በፅሁፍ አስቀምጥ છે.\n",
+   "seconds": 0.8140603730000748,
+   "new_tokens": 27
+  },
+  {
+   "eval_id": "E52",
+   "task": "summarization",
+   "direction": "",
+   "text": "የተሰጠውን ጽሑፍ שלحةletter מתארת את היתרונות של מתן תשלום מקסיקלי למוסדות מתקדם בתחום הכתובת. הנה הניתוח של היתרונות:\n\n*   **פרשנות ברורה:** הניתוח מתאר בצורה ברורה ומתאים לקהל רחב של אנשים.\n*   **פרשנות מדויקת:** הניתוח מדויק ומדגיש את היתרונות של מתן תשלום מקסיקלי.\n*   **פרשנות מתמטית:** הניתוח מתמקד בפרשנות ברורה של היתרונות של מתן תשלום מקסיקלי.\n*   **פרשנות מפורטת:** הניתוח מתאר את היתרונות של מתן תשלום מקסיקלי.\n\n**היתרונות של מתן תשלום מקסיקלי:**\n\n*   **פיתוח מקצועי:** מתן תשלום מקסיקלי יכול לשפר את היתרונות של המוסד, כמו שיפור הית",
+   "seconds": 7.747523934000128,
+   "new_tokens": 256
+  },
+  {
+   "eval_id": "E53",
+   "task": "summarization",
+   "direction": "",
+   "text": "የዚህን አርፍተ ነገር ይዘት ጠቅላላ ሀሳብ በፅሁፍ አስቀምጥ.\n",
+   "seconds": 1.098285308999948,
+   "new_tokens": 28
+  },
+  {
+   "eval_id": "E54",
+   "task": "summarization",
+   "direction": "",
+   "text": "આ ጽሑ מד is a very good and clear example of how a language model can be used to generate text. Here's why it's effective:\n\n*   **Clear and Concise:** The language is easy to understand and avoids jargon.\n*   **Specific and Detailed:** It provides specific details about the characters, their motivations, and the nature of the problem.\n*   **Contextual:** It provides context about the situation, including the history of the characters and the nature of the problem.\n*   **Reasonable Length:** It's a relatively long text, which is good for a language model to process.\n*   **Focus on the Problem:** It highlights the core issue of the problem and the need for a solution.\n*   **Provides a Clear Explanation:** It explains the reasoning behind the problem and the need for a solution.\n\nIt's a well-crafted and informative text that effectively communicates the problem and the need for a solution.",
+   "seconds": 5.932001196000101,
+   "new_tokens": 201
+  },
+  {
+   "eval_id": "E55",
+   "task": "summarization",
+   "direction": "",
+   "text": "በጎ ፈቃደኞቹ ከጸሀይ ብርሀን የሚገኘው ቫይታሚን ዲ እጥረት ካለባቸው ለሚቀጥሉት ስድስት ወራት በፖስታ ቤት በኩል የቫይታሚን ዲ እንክብሎች ወደቤታቸው ይላክላቸዋል። የዩናይትድ ኪንግደም ዜጎችና ነዋሪዎች ደግሞ የብርዱ ወቅት እየመጣ መሆኑን ተከትሎ የቫይታሚን ዲ እጥረት በሰውነታችሁ ውስጥ ሊፈጠር ስለሚችል እንክብሎቹን ብትወስዱ ጥሩ ነው ተብለዋል።\n\nየቫይታሚን ዲ እንክብሎቹ ከኮቪድ ጋር በተያያዘ ብቻ ሳይሆን አጠቃteleም አጠቃላይ በሽታ የመከላከል አቅምን ከፍ ለማድረግና ኢንፌክሽኖችን ለመቀነስም በእጅጉ ጠቃሚ ነው ተብሏል። የቫይታሚን ዲ እጥረት የሚታይባቸው persons አብዛኛዎቹ እድሜያቸው የገፋና የአፍሪካ አልያም የእሲያ ዝርያ ያለባቸው persons ሲሆኑ እነዚህ persons ለኮቪድ-19",
+   "seconds": 8.227221265000026,
+   "new_tokens": 256
+  },
+  {
+   "eval_id": "E56",
+   "task": "summarization",
+   "direction": "",
+   "text": "በલાવtext  privileged ține ținене את הניתוח של הכתבה. הכתבה מתארת תרחישים של חוסר ביטחון וניצחון של ארגון הציבור, תוך התייחסות לסיפורים של חוסר ביטחון של ארגון הציבור של הכתבה.\n",
+   "seconds": 2.3365741600000547,
+   "new_tokens": 82
+  },
+  {
+   "eval_id": "E57",
+   "task": "summarization",
+   "direction": "",
+   "text": "આ ጽሁፍ ovací એક dense text છે. તે ovací મુખ્ય મુદ્દાઓ અને arguments પર ધ્યાન કેન્દ્રિત કરે છે. અહીં કેટલીક બાબતો છે જે આ ovacíમાં મહત્વપૂર્ણ છે:\n\n* **የኦሮሚያ ክልል ፕሬዚዳንት እና የኦዴ legislative ሊቀመንበር ının ልዩነት:** ovací ovací argumentોમાં, ının ልዩነት અને તેના દ્વારા થતી સમસ્યાઓ વિશે વાત કરવામાં આવી છે.\n* **የመበታተን ባህል ወደ ችግር እና ድህነት ነው የሚወስደን:** ının argumentોમાં, ının characteristic arguments અને hispan political positions પર ભાર મૂકવામાં આવ્યો છે.\n* **አቶ ሌንጮ ının የፓርቲ ውህደት ብቻ ሳይሆን የህዝብ አንድነት ጭምር ያስፈልገናል፤ የኦሮሞ ፖለቲካ ፓርቲዎች እንደ ከዚህ ቀደሙ ሳይሆን እንደዛሬ ነው ማሰብ:** ının argumentોમાં, ının argumentોમાં, ının argumentોમાં, ının argumentોમાં, ının argumentોમાં, ının argumentોમાં, ının argumentોમાં, ının argumentોમાં, ",
+   "seconds": 7.3278554430000895,
+   "new_tokens": 256
+  },
+  {
+   "eval_id": "E58",
+   "task": "summarization",
+   "direction": "",
+   "text": "આ አረፍተ ነገር ስለ ምንድን ነው የሚያወራው છે.\n",
+   "seconds": 0.7308268140000109,
+   "new_tokens": 19
+  },
+  {
+   "eval_id": "E59",
+   "task": "summarization",
+   "direction": "",
+   "text": "આ એક અર્வாரicul edition છે. આ editionમાં,  esteemed  esteemed individuals (የተሰጠውን ጽሑፍ  abode) દ્વારા published ሪፖርት છે. આ ሪፖርት, በህፃናት ሴቶች ብቻ ሳይሆን በወንዶችም እንደሚከሰት በቅርቡ የተባበሩት መንግሥታት የህፃነት መርጃ ድርጅት (ዩኒሴፍ) ያወጣው ሪፖርት ያሳያል። ምንም እንኳን ከወንዶች ልጆች ይም surgeons መጣስ ነው, ወንዶች ልጆችም ላይ ከፍተኛ ተፅዕኖ እንዳለው ሪፖርቱ በተጨማሪ ይፋፋ አድርጓል። \"ምንም እንኳን በህፃንነታቸው የሚያገቡ ወንዶችና ሴቶች ባላቸው አካላዊና ማህበራዊ ልዩነት ለተመሳሳይ አደጋ ባይጋለጡም ይህ ልምድ ግን እድሜያቸው ያልደረሱ ህፃናትን መብት መጣስ ነው\" በማለት በህፃናት ወንዶች ዘንድ ያለውን detailed ሪፖርት ሪፖርት የፃፉት ኮለን ሙሬይ ጋስተን፣ ክርስቲና ሚሱናስ",
+   "seconds": 8.130564161999928,
+   "new_tokens": 256
+  },
+  {
+   "eval_id": "E60",
+   "task": "summarization",
+   "direction": "",
+   "text": "கொடுக்கப்பட்ட માહિતીப்படி, இப்படியான አርፍተ ነገር આ પ્રમાણે છે:\n\n*   **ዘ ሰንደይ ታይምስ እንደዘገበው የፓርላማ አባሉ ላይ ክስ የተመሰረተባቸው በቀድሞ የፓርላማው ሰራተኛ ነው። ግለሰቡ ላይ የቀረበባቸው ክስ በባለፈው ሐምሌና በተያዘው ዓመት ጥር ወር መካከል ባሉት ጊዜያት ከተፈፀሙ አራት distinct ድርጊቶች ጋር የተያያዘ መሆኑንም የከተማው ፖሊስ አስረድቷል። ወግ አጥባቂው ፓርቲ በበኩኑ እንዲህ ዓይነት ክሶችን ከፍተኛ ትኩረት ሰጥቶ እንደሚያየው ገልጿል። ዜናውን ቀድሞ የዘገበው ጋżąው፤ ግለሰቧ ትንኮሳ እንደደረሰባትና ወሲብ እንድትፈፅም እንደተገደ Adopted እና በዚህም ሳቢያ በደረሰባት የአእምሮ ጉዳት ሆስፒታል ለመሄድ መገደዷን አትቷል። የከተማው ፖሊስም በክሱ ላይ",
+   "seconds": 7.9949463220000325,
+   "new_tokens": 256
+  }
+ ],
+ "stats": {
+  "label": "base",
+  "sec_per_answer_mean": 3.994079393816666,
+  "sec_per_answer_median": 2.0234530850000283,
+  "tokens_per_sec": 25.67967647950431,
+  "total_new_tokens": 6154,
+  "peak_mem_mb": 1158.421875,
+  "n_hit_256": 17
+ }
+}

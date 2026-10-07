@@ -1,0 +1,9 @@
+task,model,n,right_script_%,empty_%,looping_%,hit_256_%,mean_new_tokens
+closed_book_knowledge,base,15,26.7,0.0,33.3,33.3,112.9
+closed_book_knowledge,distilled,15,93.3,0.0,20.0,6.7,101.3
+instruction_following,base,15,33.3,0.0,13.3,26.7,92.9
+instruction_following,distilled,15,100.0,0.0,0.0,0.0,44.3
+translation,base,15,6.7,0.0,0.0,0.0,31.5
+translation,distilled,15,100.0,0.0,0.0,0.0,26.9
+summarization,base,15,53.3,0.0,6.7,53.3,172.9
+summarization,distilled,15,100.0,0.0,0.0,0.0,110.0
