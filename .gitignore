@@ -8,3 +8,8 @@ data_pilot*/
 *.tmp
 .env
 .fuse_hidden*
+*.pyc
+*.env
+adapter_epoch*/
+results_bundle.zip
+.ipynb_checkpoints/
