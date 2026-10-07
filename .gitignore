@@ -13,3 +13,4 @@ data_pilot*/
 adapter_epoch*/
 results_bundle.zip
 .ipynb_checkpoints/
+.~lock.*#

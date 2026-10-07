@@ -1,0 +1,6 @@
+task,n,fluency_base,fluency_distilled,correct_base,correct_distilled,wins_distilled,ties,wins_base
+closed_book_knowledge,10,3.3,3.9,3.6,4.1,4,4,2
+instruction_following,10,3.6,3.4,4,3.8,4,3,3
+summarization,10,3.5,3.7,3.7,3.4,3,2,5
+translation,10,4,3.8,3.3,4,6,1,3
+OVERALL,40,3.6,3.7,3.65,3.83,17,10,13
