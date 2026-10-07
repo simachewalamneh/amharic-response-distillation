@@ -7,3 +7,4 @@ apply_fixes*.py
 data_pilot*/
 *.tmp
 .env
+.fuse_hidden*
