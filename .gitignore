@@ -1,12 +1,9 @@
 venv/
+.venv/
 __pycache__/
-*.pyc
 *.bak*
-*.log
-.env
-*.env
 apply_fixes*.py
+*.log
 data_pilot*/
-adapter_epoch*/
-results_bundle.zip
-.ipynb_checkpoints/
+*.tmp
+.env
