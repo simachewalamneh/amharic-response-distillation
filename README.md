@@ -79,6 +79,54 @@ chrF++ were highest after epoch 1.
 The base model drifts into other scripts (Tamil, Gujarati, Bengali) and often does not stop. After LoRA the model
 answers in the right script and ends its answers. The blind human rating shows no clear gain in content quality.
 
+## Student size: Gemma-3-1B-it (same recipe)
+
+An additional experiment with a larger student, to test whether the weak content quality is a capacity limit.
+It uses the same 1,934 teacher pairs, seed, LoRA settings (r=16, alpha=32), 3 epochs and evaluation as the main
+run; only the student changes (`google/gemma-3-1b-it`, 999,885,952 parameters). Results are in `results_1b/`.
+The 1B adapter is not included in this repository.
+
+Changes made by hand in Colab to fit the T4, besides the model name: micro-batch 1 with gradient accumulation 16
+(effective batch 16, as before); validation in batches of 1 instead of 4 to avoid an out-of-memory error (the
+loss is token-weighted, so the values agree up to floating-point noise); and
+`PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True`.
+
+Distilled models, 270M vs 1B:
+
+| | 270M | 1B |
+|---|---|---|
+| validation loss, epoch 3 | 1.506 | 1.161 |
+| best validation loss | 1.506 (epoch 3) | 1.149 (epoch 2) |
+| training time | 25.6 min | 68.3 min |
+| peak training memory | 9626 MB (micro-batch 2) | 7191 MB (micro-batch 1) |
+| adapter size | 14.52 MB | 49.82 MB |
+| full model on disk | 511 MB | 1907 MB |
+| peak inference memory, merged | 1158 MB | 4191 MB |
+| tokens per second, merged | 32.8 | 21.4 |
+
+Proxy metrics on the 60 evaluation prompts, distilled models (right script % / looping % / hit 256 tokens %):
+
+| task | 270M | 1B |
+|---|---|---|
+| closed_book_knowledge | 93.3 / 20.0 / 6.7 | 100 / 20.0 / 26.7 |
+| instruction_following | 100 / 0 / 0 | 100 / 0 / 0 |
+| translation | 100 / 0 / 0 | 93.3 / 0 / 0 |
+| summarization | 100 / 0 / 0 | 100 / 0 / 0 |
+
+Reading:
+- Validation loss on held-out teacher answers is much lower for the 1B student. It is measured on
+  teacher-written prompts, so it is in-distribution, and it is comparable across the two models only if they
+  share a tokenizer (not verified here).
+- The proxy metrics do not separate the two students: every difference is one answer (6.7 points). Closed-book
+  answers are longer for 1B (mean 140.5 vs 101.3 new tokens), so more of them reach the 256-token limit.
+  These proxies were already saturated at 270M.
+- Whether the lower loss means better answers has not been tested: no blind human comparison of the two students
+  has been done.
+- The 1B base model is more verbose and drifts more than the 270M base (closed-book right script 6.7% vs 26.7%;
+  32 of 60 answers hit 256 tokens vs 17), so the effect of fine-tuning looks larger for 1B partly because its
+  base starts lower.
+- Timings come from different Colab sessions and are only approximate.
+
 ## Limitations
 - **No measurable gain in rated content quality.** "Right script" measures the writing system, not correctness.
   The blind rating gave similar scores to both models (correctness 3.65 vs 3.83, not significant). Failure
@@ -126,6 +174,7 @@ answers in the right script and ends its answers. The blind human rating shows n
 - `generate_data.py`, `data/`: data generation pipeline and its outputs (`requirements.txt`)
 - `notebooks/`: the Colab notebook with saved outputs (`requirements_colab.txt`)
 - `results/`: predictions, efficiency table, per-task comparison, checkpoint comparison, training logs
+- `results_1b/`: results of the 1B student experiment (predictions, efficiency table, training logs)
 - `human_eval/`: blind human evaluation (items, key, ratings, scripts; see its README)
 - `adapter/`: LoRA weights (epoch 3)
 - `eval_prompts_60.csv`: the 60 evaluation prompts, provided by the task organizers
