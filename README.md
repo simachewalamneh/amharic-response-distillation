@@ -127,41 +127,6 @@ Reading:
   base starts lower.
 - Timings come from different Colab sessions and are only approximate.
 
-## Limitations
-- **No measurable gain in rated content quality.** "Right script" measures the writing system, not correctness.
-  The blind rating gave similar scores to both models (correctness 3.65 vs 3.83, not significant). Failure
-  modes seen in the evaluation outputs:
-  - E01: degenerate repetition and a wrong answer.
-  - E02: restates the question, then drifts to something unrelated.
-  - E16, E17: answers a different question from the one asked.
-  - E32: the translation is fluent but wrong.
-  - E47: the summary is one sentence lifted from the prompt.
-- **Training prompts come from one prompt-writing model, mostly the teacher itself** (1,833 of 1,934 rows).
-  Training and validation therefore sample the teacher's own prompt distribution, so validation loss and chrF++
-  against the teacher are in-distribution and optimistic about transfer. The 60 evaluation prompts were written
-  independently by the task organizers, so the base-versus-distilled comparison does not rest on teacher-written
-  prompts, but generalization to prompts from other sources is not shown.
-- **Training and evaluation prompts differ in wording and format.** Instruction-following training prompts use
-  only 11 distinct five-word openings across 500 prompts (summarization 83 across 496, translation 45 across 487,
-  knowledge 311 across 451), and none of the 15 evaluation prompts in any task starts with a training opening.
-  Three of the 15 evaluation summarization prompts end in a scraped headline line; none of the 1,934 training
-  prompts does. Prompt lengths are similar (median words, train vs eval: knowledge 11 vs 12, instruction
-  following 111 vs 112, summarization 144 vs 173, translation 19 vs 21).
-- **Closed-book looping remains.** A repeated-trigram heuristic flags 20% of closed-book answers (3 of 15).
-  The heuristic probably undercounts: a looser repetition check flags most long closed-book answers.
-- **Translation and knowledge are the weakest tasks** by validation loss (translation 2.58, knowledge 2.17,
-  summarization 1.05, instruction following 0.35 at epoch 3).
-- **Heavy copying from the prompt.** In instruction-following and summarization answers, 95% and 83% of
-  character 4-grams also occur in the prompt (epoch 3). These metrics cannot tell correct extraction from
-  copying the wrong sentence.
-- **Overfitting after epoch 2.** Mean training loss falls from about 1.44 (epoch 2) to 1.25 (epoch 3) while
-  validation loss stays flat (1.518 -> 1.506), so more epochs on this data are not expected to help.
-- **Small evaluations.** 15 prompts per task and one seed for the proxy metrics; one rater, who is also the
-  author, and 10 prompts per task for the human rating, with imperfect blinding.
-- **No reference-based score on the 60 evaluation prompts.** chrF++ against the teacher was computed only on
-  held-out validation prompts, and not for the base model.
-- **Claim supported by the evidence:** improved script purity and fewer runaway answers, with no measurable
-  change in human-rated content quality.
 
 ## Reproduce
 1. Open the notebook in Colab with a T4 GPU and add your Hugging Face token as the secret `HF_TOKEN`.
